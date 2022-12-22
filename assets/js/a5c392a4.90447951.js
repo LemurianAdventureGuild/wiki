@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklemurian_adventure_guild=self.webpackChunklemurian_adventure_guild||[]).push([[436],{3060:e=>{e.exports=JSON.parse('{"permalink":"/wiki/blog/tags/wiki","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
