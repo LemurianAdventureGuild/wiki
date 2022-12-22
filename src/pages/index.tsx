@@ -24,7 +24,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from the ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Welcome to the Lemurian Guild, we meet Mondays from 7PM to 8:45PM.">
       <HomepageHeader />
       <main>
         <p className="container">
