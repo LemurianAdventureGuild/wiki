@@ -9,7 +9,7 @@ const config = {
   title: 'Lemurian Adventure Guild',
   tagline: 'West Marches-style D&D Group operating out of Echo Church Sunnyvale.',
   url: 'https://LemurianAventureGuild.github.io',
-  baseUrl: '/Lemurian_Adventure_Guild/',
+  baseUrl: '/wiki/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'LemurianAventureGuild', // Usually your GitHub org/user name.
-  projectName: 'Lemurian_Adventure_Guild', // Usually your repo name.
+  projectName: 'wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
