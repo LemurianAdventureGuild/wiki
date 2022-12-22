@@ -9,7 +9,7 @@ const config = {
   title: 'Lemurian Adventure Guild',
   tagline: 'West Marches-style D&D Group operating out of Echo Church Sunnyvale.',
   url: 'https://bcpoole.github.io',
-  baseUrl: '/',
+  baseUrl: '/Lemurian_Adventure_Guild/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
