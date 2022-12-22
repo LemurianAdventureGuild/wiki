@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'D&D 5e',
-    Svg: require('@site/static/img/DnD-emblem.png').default,
+    Svg: require('@site/static/img/DnD-Emblem.png').default,
     description: (
       <>
         Dungeons and Dragons 5e has streamlined mechanics that make it easy for new players to join and focus on storytelling instead of number crunching.
