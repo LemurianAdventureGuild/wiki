@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklemurian_adventure_guild=self.webpackChunklemurian_adventure_guild||[]).push([[541],{4771:e=>{e.exports=JSON.parse('{"label":"wiki","permalink":"/Lemurian_Adventure_Guild/blog/tags/wiki","allTagsPath":"/Lemurian_Adventure_Guild/blog/tags","count":1}')}}]);
