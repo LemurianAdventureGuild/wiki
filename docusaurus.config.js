@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lemurian Adventure Guild',
   tagline: 'West Marches-style D&D Group operating out of Echo Church Sunnyvale.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://bcpoole.github.io/Lemurian_Adventure_Guild',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Echo', // Usually your GitHub org/user name.
-  projectName: 'Lemurian Adventure Guild', // Usually your repo name.
+  organizationName: 'Bcpoole', // Usually your GitHub org/user name.
+  projectName: 'Lemurian_Adventure_Guild', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
