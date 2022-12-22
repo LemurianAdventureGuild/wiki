@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lemurian Adventure Guild',
   tagline: 'West Marches-style D&D Group operating out of Echo Church Sunnyvale.',
-  url: 'https://bcpoole.github.io/Lemurian_Adventure_Guild',
+  url: 'https://bcpoole.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
