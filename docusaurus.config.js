@@ -10,6 +10,7 @@ const config = {
   tagline: 'West Marches-style D&D Group operating out of Echo Church Sunnyvale.',
   url: 'https://bcpoole.github.io',
   baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
