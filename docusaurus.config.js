@@ -103,7 +103,7 @@ const config = {
             items: [
               {
                 label: 'Archives',
-                to: '/docs/guild',
+                to: '/docs/archives/guild',
               },
             ],
           },
