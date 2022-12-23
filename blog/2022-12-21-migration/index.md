@@ -5,7 +5,7 @@ authors: [brandon]
 tags: [wiki, meta]
 ---
 
-Moved us from [Fandom](https://lemurian-adventure-guild.fandom.com/wiki/Lemurian_Adventure_Guild_Wiki) due to its user unfriendlyness and poor UX through spammy UI.
+I moved us from [Fandom](https://lemurian-adventure-guild.fandom.com/wiki/Lemurian_Adventure_Guild_Wiki) due to its poor navigation and spammy UI.
 
 ---
 
@@ -25,5 +25,3 @@ A blog post folder can be convenient to co-locate blog post images:
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
 The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
