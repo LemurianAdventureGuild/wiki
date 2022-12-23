@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Invictus Syndicate
 
 ![syndicate](/img/archives/syndicate.png)
