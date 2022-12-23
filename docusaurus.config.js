@@ -66,7 +66,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'npcs/guild',
+            docId: 'npcs/guild/cecilia',
             position: 'left',
             label: 'Important NPCs',
           },
