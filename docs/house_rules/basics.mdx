@@ -14,7 +14,14 @@ The portal is mysterious, but operates on its own mostly consistent set of rules
 
 ## Rest Schedule
 
-In between every session is a rest, with everybody on the same schedule. The pattern is session -> short rest -> session -> short rest -> session -> long rest.
+In between every session is a rest, with everybody on the same schedule. The pattern:
+
+```mermaid
+graph TD;
+    s1[Session]-- Short Rest ---s2[Session];
+    s2-- Short Rest --- s3[Session];
+    s3-->lr(((Long Rest)));
+```
 
 :::tip Character too burnt out?
 Consider creating an alt character if playing all 3 sessions a long rest cycle.
