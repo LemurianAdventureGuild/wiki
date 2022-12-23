@@ -2,6 +2,10 @@
 
 Yuna, Rikku, and Paine
 
+![Yuna](/img/npcs/Yuna.png)
+
+Yuna
+
 Three young ladies who ran the Guild Tavern.
 When they were younger, each was saved by Alvis and sent to work within the Guild Hall as a safety measure.
 They have since been kidnapped by the Syndicate.

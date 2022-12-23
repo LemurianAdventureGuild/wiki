@@ -2,8 +2,6 @@
 
 Wood Elf Ranger (Hunter)
 
-Player: Sean
-
 Style: Damage dealing archer with decent investigation skills
 
 ## Backstory
