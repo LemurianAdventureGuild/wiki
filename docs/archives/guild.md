@@ -1,6 +1,6 @@
 # History of Lemuria
 
-![history](/img/history.png)
+![history](/img//archives/history.png)
 
 The Kingdom of Lemuria was founded 512 years ago. It covers a majority of the continent.
 
