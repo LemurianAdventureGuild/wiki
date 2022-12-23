@@ -33,6 +33,9 @@ export default function Home(): JSX.Element {
         There are overarching plot threads connecting many of the missions for players who choose to look for them.
         Due to the fragmented nature of the missions, player collaboration and communication is crucial to understanding all that is going on in the shadows of Lemuria, particularly in fighting the mysterious group known as the Invictus Syndicate.
         </p>
+        <p className="container">
+          <img src="img/Library.png" alt="library" />
+        </p>  
         <HomepageFeatures />
       </main>
     </Layout>
