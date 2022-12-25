@@ -7,6 +7,8 @@ Player: Brandon
 ![Docusaurus themed image](/img/players/Tri-chibi.png#gh-light-mode-only)
 ![Docusaurus themed image](/img/players/Tri-muscle.png#gh-dark-mode-only)
 
+*switch theme for picture*
+
 ## Backstory
 
 Earning his adult name due the size of his muscles on a below-average height goblin awkward physique, Trithagerous looks like an upside down green triangle.

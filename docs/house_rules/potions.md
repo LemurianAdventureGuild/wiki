@@ -10,3 +10,5 @@ Characters may choose to spend `2 time units` on one brewing attempt, giving the
 :::
 
 Inquire with the DM for costs on learning and brewing potions.
+
+![potion](/img/rules/potion_brewing.png)
