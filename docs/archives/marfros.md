@@ -20,7 +20,7 @@ In sheep form, Marfros convinced a druid he was being abused by the farmer in Fl
 
 Immediately after his escape from Fleeceton Marfros attacked the capital city of Lemuria with a team of fire and earth elementals. The guild sent multiple teams to stop the attack, but not before the city was heavily damaged.
 
-###Recruitment at Colobraro
+### Recruitment at Colobraro
 
 The city of Colobraro asked the Guild to investigate a recent wave of bad luck. It turned out that a tribe of Quicklings had been gathering in the city for a meeting. The Quicklings were a tribe of Fey that agreed to help Queen Titania fight Marfros but lost their courage and fled the fight. Their punishment was to become very fast but have short life spans (no longer than 10 years). In the meeting, Marfros gave the Quicklings a proposal where they would be messengers for his new rebellion and in return, upon his success he would undo their curse. They accepted this offer and the Guild no long knows of their whereabouts.
 
