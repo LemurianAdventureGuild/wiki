@@ -4,10 +4,10 @@ Goblin Zealot Barbarian
 
 Player: Brandon
 
-![Docusaurus themed image](/img/players/Tri-chibi.png#gh-light-mode-only)
-![Docusaurus themed image](/img/players/Tri-muscle.png#gh-dark-mode-only)
+![Trithagerous light mode](/img/players/Tri-chibi.png#gh-light-mode-only)
+![Trithagerous dark mode](/img/players/Tri-muscle.png#gh-dark-mode-only)
 
-*switch theme for picture*
+*light/dark mode pictures*
 
 ## Backstory
 
