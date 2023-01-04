@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Marfros
 
-![syndicate](/img/archives/syndicate.png)
+![marfros](/img/archives/marfros.jpeg)
 
 ## Background
 
