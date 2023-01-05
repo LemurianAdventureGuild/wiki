@@ -4,6 +4,8 @@ Wood Elf Ranger (Hunter)
 
 Style: Damage dealing archer with decent investigation skills
 
+![Fenris](/img/players/Fenris.png)
+
 ## Backstory
 
 Hailing from the small wooded village of Faundell, Fenris always dreamed of adventure. He applied himself to his studies, trained with the bow, and spent countless hours tracing the lines of the surrounding wilderness until the undergrowth was a second home. Where there was trouble, he stepped in and stood up for what was right, and he gained some local renown for various acts of monster scaring, pet rescuing, and general doing of good.
