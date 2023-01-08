@@ -9,6 +9,9 @@ Resurrection spells such as [Raise Dead](https://www.dndbeyond.com/spells/raise-
 - This penalty is reduced by 1 every time they complete a long rest.
 - Casting Revivify at a higher spell level reduces the penalty by 1 for every spell level higher than 3rd.
 
+![Resurrection light mode](/img/rules/resurrection.png#gh-light-mode-only)
+![Resurrection dark mode](/img/rules/resurrection-dark.png#gh-dark-mode-only)
+
 ## Replacement Characters
 
 When making a character to replace one that has died, your new character starts at level 1 but their level up thresholds will be halved.

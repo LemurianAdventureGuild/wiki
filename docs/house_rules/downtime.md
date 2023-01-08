@@ -17,6 +17,8 @@ All of these parameters will be determined by the DMs and revealed to you prior 
 You may perform downtime activities even if you missed the in person session.
 :::
 
+![variety of adventurers playing cards at the tavern](/img/rules/downtime.png)
+
 ## Roll
 
 The skill or tools you will use to make progress towards this activity. (For example, if you are crafting something, you will make a skill check with artisan’s tools). The result of the roll is the number of points you put towards reaching the threshold. Some rolls may require the character to be proficient to attempt, or may impose disadvantage if you are not proficient.

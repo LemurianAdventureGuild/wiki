@@ -25,3 +25,5 @@ Spell Level | Price
 4th | 675 gp
 
 *higher levels upon request*
+
+![scroll being written](/img/rules/scrolls.png)
