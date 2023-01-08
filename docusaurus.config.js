@@ -129,6 +129,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    plugins: ['@docusaurus/plugin-ideal-image'],
 };
 
 module.exports = config;
