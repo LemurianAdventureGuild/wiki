@@ -4,8 +4,7 @@ Thri'kreen Artificer Artillerist
 
 Player: Brandon
 
-![Tar'kiz light mode](/img/players/Tarkiz.png#gh-light-mode-only)
-![Tar'kiz dark mode](/img/players/Tarkiz-city.png#gh-dark-mode-only)
+![Tar'kiz building in his lab](/img/players/Tarkiz.png)
 
 *light/dark mode pictures*
 
