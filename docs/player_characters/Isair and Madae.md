@@ -1,4 +1,4 @@
-# Isair and Madea
+# Isair and Madae
 
 ![Isair and Madea](/img/players/Isair_and_Madea.png)
 
