@@ -4,14 +4,14 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  Img: React.ComponentType<React.ComponentProps<'img'>>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'D&D 5e',
-    Svg: require('@site/static/img/DnD-Emblem.png').default,
+    Img: require('@site/static/img/DnD-Emblem.png').default,
     description: (
       <>
         Dungeons and Dragons 5e has streamlined mechanics that make it easy for new players to join and focus on storytelling instead of number crunching.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Modified Sandbox',
-    Svg: require('@site/static/img/table_of_players.png').default,
+    Img: require('@site/static/img/table_of_players.png').default,
     description: (
       <>
         The campaign features standalone adventures or "monster of the week" style encounters that are connected by an overarching plot or story.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'West Marches-style',
-    Svg: require('@site/static/img/missions.png').default,
+    Img: require('@site/static/img/missions.png').default,
     description: (
       <>
         West Marches is designed to be flexible and accomodate a large number of players forming small groups each week.
@@ -39,12 +39,12 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, Img, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         {/* <Svg className={styles.featureSvg} role="img" /> */}
-        <img src={Svg} role="img" />
+        <img src={Img} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

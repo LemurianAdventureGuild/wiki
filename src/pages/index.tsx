@@ -23,7 +23,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from the ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Welcome to the Lemurian Guild, we meet Mondays from 7PM to 8:45PM.">
       <HomepageHeader />
       <main>
