@@ -1,17 +1,18 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 type FeatureItem = {
   title: string;
-  Img: React.ComponentType<React.ComponentProps<'img'>>;
+  imgUrl: string;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'D&D 5e',
-    Img: require('@site/static/img/DnD-Emblem.png').default,
+    imgUrl: '/img/DnD-Emblem.png',
     description: (
       <>
         Dungeons and Dragons 5e has streamlined mechanics that make it easy for new players to join and focus on storytelling instead of number crunching.
@@ -20,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Modified Sandbox',
-    Img: require('@site/static/img/table_of_players.png').default,
+    imgUrl: '/img/table_of_players.png',
     description: (
       <>
         The campaign features standalone adventures or "monster of the week" style encounters that are connected by an overarching plot or story.
@@ -29,25 +30,23 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'West Marches-style',
-    Img: require('@site/static/img/missions.png').default,
+    imgUrl: '/img/missions.png',
     description: (
       <>
-        West Marches is designed to be flexible and accomodate a large number of players forming small groups each week.
+        West Marches is designed to be flexible and accommodate a large number of players forming small groups each week.
         Players can join or leave the game as they wish, and the game can be run on a casual, drop-in basis.
       </>
     ),
   },
 ];
 
-function Feature({title, Img, description}: FeatureItem) {
+function Feature({title, imgUrl, description}: FeatureItem) {
+  const imageUrl = useBaseUrl(imgUrl);
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        {/* <Svg className={styles.featureSvg} role="img" /> */}
-        <img src={Img} role="img" />
-      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
+        <img src={imageUrl}  className={styles.featurePng} />
         <p>{description}</p>
       </div>
     </div>

@@ -27,14 +27,20 @@ export default function Home(): JSX.Element {
       description="Welcome to the Lemurian Guild, we meet Mondays from 7PM to 8:45PM.">
       <HomepageHeader />
       <main>
+        <div className="container">
+          <p>
+            Welcome to the Lemurian Guild, we meet Mondays from 7PM to 8:45PM.
+          </p>
+
+          <p>
+          At each session, you can choose to join a mission from the mission board selection.
+          Most missions are self-contained, accomplishable within the time frame, and meant to be an enjoyable standalone experience.
+          There are overarching plot threads connecting many of the missions for players who choose to look for them.
+          Due to the fragmented nature of the missions, player collaboration and communication is crucial to understanding all that is going on in the shadows of Lemuria, particularly in fighting the mysterious group known as the Invictus Syndicate.
+          </p>
+        </div>
         <p className="container">
-        Welcome to the Lemurian Guild, we meet Mondays from 7PM to 8:45PM. At each session, you can choose to join a mission from the mission board selection.
-        Most missions are self-contained, accomplishable within the time frame, and meant to be an enjoyable standalone experience.
-        There are overarching plot threads connecting many of the missions for players who choose to look for them.
-        Due to the fragmented nature of the missions, player collaboration and communication is crucial to understanding all that is going on in the shadows of Lemuria, particularly in fighting the mysterious group known as the Invictus Syndicate.
-        </p>
-        <p className="container">
-          <img src="img/Library.png" alt="library" />
+          <img src="img/Lobby.png" alt="lobby" />
         </p>  
         <HomepageFeatures />
       </main>
