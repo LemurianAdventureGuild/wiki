@@ -27,3 +27,7 @@ The city of Colobraro asked the Guild to investigate a recent wave of bad luck. 
 ### Return to the Feywild
 
 In the town of Ketterdam there was a temporary weakness in the veil between the Feywild and Lemuria. Marfros set up 4 ritual sites where human sacrifices would fuel a tear large enough for him to escape back to the Feywild. The guild was sent to disrupt the rituals but Marfros was able to escape. In the conflict Ulgrim and Mistoffelees were killed.
+
+### Defeat in the Feywild
+
+After the failed mission at Ketterdam, Marfros entered the Feywild with his army. Weeks later, news came from a group of Fey that Marfros had been defeated along with all of his forces. His goals to claim the throne and undo the Accords were thwarted at great loss by the rightful Fey Court. Marfros is presumed dead along with all those that stood with him.
