@@ -66,15 +66,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'npcs/guild/cecilia',
-            position: 'left',
-            label: 'Important NPCs',
-          },
-          {
-            type: 'doc',
             docId: 'player_characters/about',
             position: 'left',
             label: 'Player Characters',
+          },
+          {
+            type: 'doc',
+            docId: 'npcs/about',
+            position: 'left',
+            label: 'Important NPCs',
           },
           {
             type: 'doc',
