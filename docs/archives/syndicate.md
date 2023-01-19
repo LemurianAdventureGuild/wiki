@@ -27,3 +27,21 @@ The Syndicate uses a branch and cell structure which makes rooting out the entir
 ### Kidnapped Paine
 
 ?
+
+## Past Interactions with the Guild
+
+### Enhanced Serial Killer
+
+The Guild was sent to stop a a wave of serial killings. During the mission they were able to recover the body of one of the serial killers. Rikku examined the corpse and determined that the body was physically enhanced through alchemy. A side effect of the treatment was deterioration of sections of the brain.
+
+### Guild Attack
+
+The Syndicate was able to launch a surprise attack on Guild headquarters by taking control of the portal and sending multiple teams in to attack. The Guild was able to repell attackers in the Library and the Archives. After the attack was repelled it was determined that the Tavern Trio (Yuna, Rikku, and Paine) were kidnapped in the attack.
+
+### Sleeper Agent in the Guild
+
+The resident portal expert, Zeradnyk (former Syndicate employee), was caught trying to break into the Vault below the Guild and steal the Heart of Strife. The guild team prevented the theft, but Zeradnyk was killed in the figth due to a Ring of Loyalty. Zeradnyk has since been assumed as the reason the Syndicate was able to use the Guild portal in their attack.
+
+### Attack on Dow Chemical
+
+The guild responded to an attack on the City of Dow. They dispatched a couple waves of attacking mephitis and rescued many citizens in the attack. Toward the end of the mission they stumbled upon a crew of people taking alchemy ingredients out of the Dow Chemical factory through a magic portal. The Guild sent a team to investigate. The team was able to link the the portal to past missions with the Syndicate. They came to the conclusion that James Son of Hen was a Syndicate agent that infiltrated the factory, then started the Mephiti attack and opened the portal. The Mephiti attack was most likely a cover for the alchemical component theft.
