@@ -11,7 +11,7 @@
         <item>
             <title><![CDATA[Migration from Fandom]]></title>
             <link>https://LemurianAdventureGuild.github.io/wiki/blog/migration</link>
-            <guid>migration</guid>
+            <guid>https://LemurianAdventureGuild.github.io/wiki/blog/migration</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[I moved us from Fandom due to its poor navigation and spammy UI.]]></description>
             <content:encoded><![CDATA[<p>I moved us from <a href="https://lemurian-adventure-guild.fandom.com/wiki/Lemurian_Adventure_Guild_Wiki" target="_blank" rel="noopener noreferrer">Fandom</a> due to its poor navigation and spammy UI.</p><hr><p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/wiki/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>The blog supports tags as well!</p>]]></content:encoded>

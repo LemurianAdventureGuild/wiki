@@ -9,7 +9,7 @@
     <icon>https://LemurianAdventureGuild.github.io/wiki/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Migration from Fandom]]></title>
-        <id>migration</id>
+        <id>https://LemurianAdventureGuild.github.io/wiki/blog/migration</id>
         <link href="https://LemurianAdventureGuild.github.io/wiki/blog/migration"/>
         <updated>2022-12-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I moved us from Fandom due to its poor navigation and spammy UI.]]></summary>
