@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lemurian Adventure Guild',
   tagline: 'West Marches-style D&D Group operating out of Echo Church Sunnyvale.',
-  url: 'https://LemurianAventureGuild.github.io',
+  url: 'https://LemurianAdventureGuild.github.io',
   baseUrl: '/wiki/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'LemurianAventureGuild', // Usually your GitHub org/user name.
+  organizationName: 'LemurianAdventureGuild', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -37,7 +37,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/LemurianAventureGuild/wiki/tree/main/'
+            'https://github.com/LemurianAdventureGuild/wiki/tree/main/'
         },
         blog: {
           showReadingTime: true,

@@ -1,6 +1,6 @@
 # Lemurian Adventure Guild
 
-GitHub Pages website for D&D 5e group. <https://lemurianaventureguild.github.io/wiki/>
+GitHub Pages website for D&D 5e group. <https://lemurianadventureguild.github.io/wiki/>
 
 ## Website
 
