@@ -18,4 +18,4 @@ The effects last for up to 4 hours.
 
 ---
 
-![corner with a comfy chair and a shelf of magical wondrous items](./the_goblin_hoard.png)
+![corner with a comfy chair and a shelf of magical wondrous items](/img/archives/the_goblin_hoard.png)
