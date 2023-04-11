@@ -4,7 +4,9 @@ Half-Elf Rogue
 
 Infiltrator and On-and-Off Tavern Cook
 
-:::danger RIP 2023-03-27 Died while purging a water weird from a poisoned cistern :::
+:::danger RIP 2023-03-27
+Died while purging a water weird from a poisoned cistern
+:::
 
 ## Memorial
 
