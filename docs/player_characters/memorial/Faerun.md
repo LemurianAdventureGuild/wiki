@@ -11,7 +11,7 @@ Died to shadow monsters during Raiders of the Lost Tomb archaeology mission.
 The Guild gathers to pay respects to Faeren. As customary, Cecilia begins. "We are here to honor the memory of Faeren who fell in the pursuit of knowledge. So much of our history is lost to us, leaving us with little guidance to avoid the mistakes of our ancestors. Faeren sought to help us break that cycle, but I pray her efforts were not in vain. Are there any here who would like to share a few words?"
 Sandy (Sarell/Lily) — 01/12/2023 10:06 AM
 
-## Vespers
+### Vespers
 
 Vespers comes to speak. She tells stories of pirate hunting with Faeren and Rezir. She looks at John and Trithagerous "I know you tried to save her and I appreciate your efforts."
 
