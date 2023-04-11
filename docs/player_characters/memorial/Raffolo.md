@@ -4,7 +4,9 @@ Tortle Druid (Circle of the Shepherd)
 
 Style: Support character with summoned beasts and healing
 
-:::danger RIP 2023-04-10 Died trying to use summons to protect team from Vorpal Rabbit. :::
+:::danger RIP 2023-04-1
+Died trying to use summons to protect team from Vorpal Rabbit
+:::
 
 ## Memorial
 TBD
