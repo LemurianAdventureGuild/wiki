@@ -5,8 +5,10 @@ Half-Elf Rogue
 Infiltrator and On-and-Off Tavern Cook
 
 :::danger RIP 2023-03-27
-Died while purging a water weird from a poisoned cistern
+Died while purging a water weird from a poisoned cistern.
 :::
+
+![Lucy staring over shoulder](/img/players/Lucy_Zala.jpg)
 
 ## Memorial
 
