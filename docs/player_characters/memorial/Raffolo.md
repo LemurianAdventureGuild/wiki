@@ -8,7 +8,10 @@ Style: Support character with summoned beasts and healing
 Died trying to use summons to protect his teammates from a Vorpal Rabbit
 :::
 
+![Raffalo in his garden](/img/players/Raffalo.png)
+
 ## Memorial
+
 TBD
 
 ## Backstory
@@ -22,4 +25,5 @@ His travels sent him through so many lands, collecting trinkets and stories alon
 Eventually he arrived in Faundell, needing a place to rest his shell. A family of wood elves took him in, welcoming him as one of his own, reminding him what he had once had. When the eldest headed off in search of opportunity and adventure, Raffolo followed after. Could he redeem himself of the failure he carried like an anchor around his neck? Could he earn back what he had lost?
 
 ## Languages
+
 Common, Draconic, Druidic, Primordial, Sylvan
