@@ -2,12 +2,7 @@
 
 Goblin Zealot Barbarian
 
-Player: Brandon
-
-![Trithagerous light mode](/img/players/Tri-chibi.png#gh-light-mode-only)
-![Trithagerous dark mode](/img/players/Tri-muscle.png#gh-dark-mode-only)
-
-*light/dark mode pictures*
+![Trithagerous](/img/players/Tri.png)
 
 ## Backstory
 

@@ -2,11 +2,8 @@
 
 Thri'kreen Artificer Artillerist
 
-Player: Brandon
-
-![Tar'kiz building in his lab](/img/players/Tarkiz.png)
-
-*light/dark mode pictures*
+![Tar'kiz building in his lab](/img/players/Tarkiz.png#gh-light-mode-only)
+![Tar'kiz building in his lab](/img/players/Tarkiz-wide.png#gh-dark-mode-only)
 
 Spawned from average parents (*4 +0 , 2 +1, 1 -1 stat roll*) into a standard familial unit, Tar'kiz's (*Standard Array*) parental units spent their spare income on books to educate their son.
 Tar'kiz graducated from 5 prestigious universities in artificing with straight **E**'s for **E**xcellence. *(He was **E**xpelled from 5 universities for producing hazards).*
@@ -24,4 +21,4 @@ Common, Infernal,Primordial, Telepathy (don't need to share a language, but the 
 
 *"Devil engineering makes good weapo... I mean thermodynamics, so I learned their language.*
 
-*Studying Gnomish since they're known for being tinkerers. (65%)*
+*Gnomish since they're known for being tinkerers.*
