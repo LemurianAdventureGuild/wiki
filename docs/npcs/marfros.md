@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Marfros
 
+:::danger dead
+Marfros was defeated by the Fey Court's forces after the rebels successfully invaded due to the Guild's failure to stop the invasion ritual.
+:::
+
 ![marfros](/img/archives/marfros.jpeg)
 
 ## Background
@@ -30,4 +34,5 @@ In the town of Ketterdam there was a temporary weakness in the veil between the 
 
 ### Defeat in the Feywild
 
-After the failed mission at Ketterdam, Marfros entered the Feywild with his army. Weeks later, news came from a group of Fey that Marfros had been defeated along with all of his forces. His goals to claim the throne and undo the Accords were thwarted at great loss by the rightful Fey Court. Marfros is presumed dead along with all those that stood with him.
+After the failed mission at Ketterdam, Marfros entered the Feywild with his army. Weeks later, news came from a group of Fey that Marfros had been defeated along with all of his forces. His goals to claim the throne and undo the Accords were thwarted at great loss by the rightful Fey Court. Marfros is confirm dead along with most of those that stood with him.
+The Guild was called in for cleanup duty for it's failure to prevent the invasion.
