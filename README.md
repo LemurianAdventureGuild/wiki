@@ -19,7 +19,7 @@ GitHub Pages website for D&D 5e group. <https://lemurianadventureguild.github.io
 
 ![Screenshot 2023-05-11 at 10 28 45 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/cb8ba4fd-1036-43c5-a193-f56ca0568308)
 
-8. Let folks know in the `#archive` channel on the Lemurian Guild Discord server. 
+8. Let folks know in the `#archives` channel on the Lemurian Guild Discord server. 
 9. Your changes will be reviewed and added to the site shortly!
 
 ## Website
