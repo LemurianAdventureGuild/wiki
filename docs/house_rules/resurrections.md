@@ -9,7 +9,7 @@ Resurrection spells such as [Raise Dead](https://www.dndbeyond.com/spells/raise-
 - This penalty is reduced by 1 every time they complete a long rest.
 - Casting Revivify at a higher spell level reduces the penalty by 1 for every spell level higher than 3rd.
 
-There are rumors of a necromancer named [Rakkar](/wiki/docs/npcs/rakkar) who can provide preventative measures against death for a fee. If you are wearing one of his soul crystals, you can be restored to life after death, back to a previously checkpointed level.
+There are rumors of a necromancer named [Rakkar](../npcs/rakkar) who can provide preventative measures against death for a fee. If you are wearing one of his soul crystals, you can be restored to life after death, back to a previously checkpointed level.
 
 ![Resurrection light mode](/img/rules/resurrection.png#gh-light-mode-only)
 ![Resurrection dark mode](/img/rules/resurrection-dark.png#gh-dark-mode-only)
