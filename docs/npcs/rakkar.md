@@ -22,5 +22,4 @@ It is believed that his family line has connections to powerful magic from the H
 
 > "Knowledge of the process was lost with the fall of the Holy Carmel Empire. BUT Magic Brian did found out that the magic involved is somehow tied to a specific family line, 'Al Bashir'. "
 
-> 
-He said he was going to move on very soon, so if you want such a stone then you should get in touch immediately. He said he would show up maybe twice a year, but according to a calendar in a different world."
+> He said he was going to move on very soon, so if you want such a stone then you should get in touch immediately. He said he would show up maybe twice a year, but according to a calendar in a different world."
