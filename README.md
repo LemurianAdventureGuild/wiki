@@ -4,7 +4,7 @@ GitHub Pages website for D&D 5e group. <https://lemurianadventureguild.github.io
 
 ## How to Contribute
 1. Create a Github account
-2. Submit your changes through [the Github UI for this repository](https://github.com/LemurianAdventureGuild/wiki).
+2. Be here in the [the Github UI for this repository](https://github.com/LemurianAdventureGuild/wiki)! You should be able to do this all through a browser.
 3. Create a new branch for your changes. Use the dropdown in the top right to create a new branch with a descriptive name. 
 
 ![Screenshot 2023-05-11 at 10 15 01 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/4a7abde9-85ca-4e02-8709-26f5ea997db2)
