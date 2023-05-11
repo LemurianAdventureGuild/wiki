@@ -10,6 +10,10 @@ GitHub Pages website for D&D 5e group. <https://lemurianadventureguild.github.io
 ![Screenshot 2023-05-11 at 10 15 01 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/4a7abde9-85ca-4e02-8709-26f5ea997db2)
 
 4. **If you are creating a new page**, find the appropriate folder in `docs` for your new page, and click Add Page. The filename should end with `.md`.
+* `docs/player_characters` for your player characters
+* `docs/npcs` for any interesting NPCs (there are some subfolders within here you can use if they make sense)
+* `docs/house_rules` for rules for our Guild
+* `docs/archives` for any other archival texts/details (stories, legends, records, etc)
 5. **If you are editing an existing page**, find that page by navigating the `docs` folder, and click the pencil icon.
 
 ![Screenshot 2023-05-11 at 10 28 11 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/39547319-b577-4013-bfdd-33597c8614e4)
