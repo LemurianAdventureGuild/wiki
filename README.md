@@ -9,7 +9,7 @@ GitHub Pages website for D&D 5e group. <https://lemurianadventureguild.github.io
 
 ![Screenshot 2023-05-11 at 10 15 01 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/4a7abde9-85ca-4e02-8709-26f5ea997db2)
 
-4. **If you are creating a new page**, find the appropriate folder in `docs` for your new page, and click Add Page. The filename should end with `.md`.
+4. **If you are creating a new page**, find the appropriate folder in `docs` for your new page, and click **Add Page**. The filename should end with `.md`.
 * `docs/player_characters` for your player characters
 * `docs/npcs` for any interesting NPCs (there are some subfolders within here you can use if they make sense)
 * `docs/house_rules` for rules for our Guild
@@ -18,7 +18,7 @@ GitHub Pages website for D&D 5e group. <https://lemurianadventureguild.github.io
 
 ![Screenshot 2023-05-11 at 10 28 11 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/39547319-b577-4013-bfdd-33597c8614e4)
 
-6. When you are done editing, commit your changes.
+6. When you are done editing, commit your changes by pressing the **Commit changes...** button at the top.
 7. Return to the [main page](https://github.com/LemurianAdventureGuild/wiki) and create a Pull Request. Provide light details about what is changing and why.
 
 ![Screenshot 2023-05-11 at 10 28 45 AM](https://github.com/LemurianAdventureGuild/wiki/assets/1022875/cb8ba4fd-1036-43c5-a193-f56ca0568308)
