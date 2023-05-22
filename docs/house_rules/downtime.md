@@ -19,6 +19,10 @@ You may perform downtime activities even if you missed the in person session.
 
 ![variety of adventurers playing cards at the tavern](/img/rules/downtime.png)
 
+## Multiple Characters
+
+You can only perform downtime activities on Discord for 2 player characters at max for any given week.
+
 ## Roll
 
 The skill or tools you will use to make progress towards this activity. (For example, if you are crafting something, you will make a skill check with artisan’s tools). The result of the roll is the number of points you put towards reaching the threshold. Some rolls may require the character to be proficient to attempt, or may impose disadvantage if you are not proficient.
@@ -48,6 +52,20 @@ Research a topic in the library or investigate something in the guild. Threshold
 ### Jobs
 
 Do a job for payment. A good way to earn some cash. There are no thresholds for jobs, and instead you are paid out based on the result of your rolls. Typical payout ~35gp per time unit spent.
+
+When performing downtime jobs, you can report your rolls, number of time units spent, and a description of the activities that you performed in an appropriate public channel, and a DM will let you know how much gp you earned.
+
+Here are some example types of jobs that Guild members have performed, along with the corresponding skill rolls:
+* **Physical labor**: Athletics + Constitution
+* **Tavern cooking**: Dexterity + Wisdom
+* **Waiting tables**: Dexterity + Charisma
+* **Gardening**: Nature + Survival
+* **Soliciting donations**: Persuasion + History
+* **Guard duty**: Consititution + Perception
+* **Research assistance**: Intelligence + Wisdom
+* **Hunting/skinning**: Survival + Sleight of Hand
+* **Guild paperwork**: Intelligence + Wisdom
+* **Arcane lecturing**: Arcana + Performance
 
 ### Guild Service
 
