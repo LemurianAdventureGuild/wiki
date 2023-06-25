@@ -66,13 +66,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'player_characters/about',
+            docId: 'player_characters/README',
             position: 'left',
             label: 'Player Characters',
           },
           {
             type: 'doc',
-            docId: 'npcs/about',
+            docId: 'npcs/README',
             position: 'left',
             label: 'Important NPCs',
           },
