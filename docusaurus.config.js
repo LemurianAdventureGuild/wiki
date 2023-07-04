@@ -34,13 +34,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: 'docs',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/LemurianAdventureGuild/wiki/tree/main/'
-        },
-        blog: {
-          showReadingTime: true,
+            'https://github.com/LemurianAdventureGuild/wiki/tree/main/',
+            lastVersion: 'current',
+            onlyIncludeVersions: ['current'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -83,10 +84,10 @@ const config = {
             label: 'Archives',
           },
           {
-            type: 'doc',
-            docId: 'house_rules/basics',
+            to: 'house_rules/basics',
             label: 'House Rules',
             position: 'right',
+            activeBaseRegex: `/house_rules/`,
           },
           { to: '/blog', label: 'Blog', position: 'right' },
           {
@@ -131,6 +132,15 @@ const config = {
     }),
 
     plugins: [
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'house_rules',
+          path: 'house_rules',
+          routeBasePath: 'house_rules',
+          sidebarPath: require.resolve('./sidebars.js'),
+        }, 
+      ],
       [
         '@docusaurus/plugin-ideal-image',
         {
