@@ -4,5 +4,3 @@ Snorkel is a monkey faced menace upon society. It can occassionally be seen shov
 
 The Guild provides hazard pay to guildmembers who minimize the damage of "Snorkel Events"
 
-
-# ![Snorkel](/img/players/Illantriss.png) # add image link here
