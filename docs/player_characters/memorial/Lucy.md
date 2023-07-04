@@ -10,6 +10,10 @@ Died while purging a water weird from a poisoned cistern.
 
 ![Lucy staring over shoulder](/img/players/Lucy_Zala.jpg)
 
+## Backstory
+
+Lucy grew up on the streets of Lemuria as an orphan, never knowing her parents. She would have died early on if not for the help of an older urchin, a dwarf named Kit Zala. Kit taught her how to scavenge and gather food, which kept the both of them from starving and getting sick. Lucy has joined the Lemurian guild in the wake of Kit's death.
+
 ## Memorial
 
 The Guild gathers to pay respects to the fallen. Cecilia speaks first. "We honor the memories of Lucy and Valoria. Lucy has been with us for some time and has served the Guild and Lemuria faithfully. Valoria is relatively new to us, but she has made a lasting impact in her time here. Both met their end fighting to protect our fair nation, and neither will be forgotten. Would anyone like to share a few words?"
@@ -25,7 +29,3 @@ _Fenris steps up first._
 Gustabo walks up to the memorial for Lucy.
 
 “Lucy’s time at the Guild started before my own. On one of my earlier missions we saved children from a woman using them for alchemical experiments. Lucy courageously stepped up to act as bait for this predator and it worked. She was a force to be reckoned with and she will be missed.”
-
-## Backstory
-
-Lucy grew up on the streets of Lemuria as an orphan, never knowing her parents. She would have died early on if not for the help of an older urchin, a dwarf named Kit Zala. Kit taught her how to scavenge and gather food, which kept the both of them from starving and getting sick. Lucy has joined the Lemurian guild in the wake of Kit's death.
