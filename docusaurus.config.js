@@ -56,7 +56,7 @@ const config = {
           {
             to: 'player_characters',
             position: 'left',
-            label: 'Archives',
+            label: 'Player Characters',
             activeBaseRegex: `/player_characters/`,
           },
           {
