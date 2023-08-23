@@ -72,6 +72,12 @@ const config = {
             activeBaseRegex: `/archives/`,
           },
           {
+            to: 'news',
+            position: 'left',
+            label: 'News',
+            activeBaseRegex: `/news/`,
+          },
+          {
             to: 'memorial',
             label: 'Memorial',
             position: 'right',
@@ -128,6 +134,14 @@ const config = {
           path: 'archives',
           routeBasePath: 'archives',
           sidebarPath: require.resolve('./sidebars.js'),
+        },
+      ],
+      [
+        '@docusaurus/plugin-content-blog',
+        {
+          id: 'news',
+          routeBasePath: 'news',
+          path: 'news'
         },
       ],
       [
