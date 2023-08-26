@@ -63,3 +63,7 @@ A guild outpost sent a message that it was being attacked. A team was sent and e
 - Rezir
 - Numrikar
 - Reventh
+
+# Known Members
+
+
