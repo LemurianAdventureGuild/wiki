@@ -66,4 +66,7 @@ A guild outpost sent a message that it was being attacked. A team was sent and e
 
 # Known Members
 
-
+- [[Dr. Mauro (Doc)]]
+- [[Zeradnyk]()]
+- [[Raventh]]
+- [[Agmus Aldron]], Alchemist

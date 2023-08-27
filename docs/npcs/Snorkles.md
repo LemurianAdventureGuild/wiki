@@ -1,5 +1,9 @@
 # Snorkles
 
+Affiliations: Guild
+Status: Alive
+
+## Background
 Snorkles is a monkey faced menace upon society.
 It can occasionally be seen shoving creatures into a seemingly bottomless bag of holding.
 Whenever Snorkel is found either in the guildhall or on a guild member's mission, it will pull out creatures from its bag.
@@ -21,5 +25,8 @@ Snorkles joins the adventuring party of a regularly scheduled mission. Guild mem
 
 
 > _House Rule_: Any monster parts looted from Snorkles' monsters can only be used for cosmetic upgrades  
+
+# Metadata
+Last Update: 8/26/23
 
 

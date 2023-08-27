@@ -1,5 +1,9 @@
 # Runt
 
+:::danger RIP
+Died fighting a necromancer who had created a giant undead monstrosity.
+:::
+
 Former Head of Internal Security.
 
 A small half orc with a propensity for stabbing people.
