@@ -26,7 +26,7 @@ Snorkles joins the adventuring party of a regularly scheduled mission. Guild mem
 
 > _House Rule_: Any monster parts looted from Snorkles' monsters can only be used for cosmetic upgrades  
 
-# Metadata
+## Metadata
 Last Update: 8/26/23
 
 

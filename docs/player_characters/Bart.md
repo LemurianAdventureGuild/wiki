@@ -3,14 +3,17 @@
 ## Class and Stats
 
 <!-- Class -->
-| Class         | Second Header     | Second Header |
-| ------------- | -------------     | ------------- |
-| Class         | Fighter - lvl 5   | ------------- |
-| Subclass      | Battle Master     | ------------- |
+| Bart the Stickman     |                   | Level         |
+| -------------         | -------------     | ------------- |
+| Class                 | Fighter           | 5             |
+| Subclass              | Battle Master     | ^             |
 
 
 <!-- Stat Block -->
-
+| Class         | Second Header     | Second Header |
+| ------------- | -------------     | ------------- |
+| Class         | Fighter - lvl 5   |  |
+| Subclass      | Battle Master     |  |
 
 
 <!-- Languages -->
