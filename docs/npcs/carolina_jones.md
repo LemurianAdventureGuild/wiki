@@ -1,6 +1,7 @@
 # Carolina Tomes
 
 Affiliations: Indepenent
+
 Status: Missing
 
 ![Carolina_Jones](/img/npcs/Carolina_Jones.png)

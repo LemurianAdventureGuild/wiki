@@ -1,23 +1,25 @@
 # Bart the Stickman
 
-## Class and Stats
+![Bart](/img/players/Bart_and_stick.png)
+
+## Class and Skills
 
 <!-- Class -->
-| Bart the Stickman     |                   | Level         |
-| -------------         | -------------     | ------------- |
-| Class                 | Fighter           | 5             |
-| Subclass              | Battle Master     | ^             |
+Fighter - Battlemaster: Level 5
 
 
 <!-- Stat Block -->
-| Class         | Second Header     | Second Header |
-| ------------- | -------------     | ------------- |
-| Class         | Fighter - lvl 5   |  |
-| Subclass      | Battle Master     |  |
+| Str 	| Dex 	| Con 	| Int 	| Wis 	| Cha 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+|  19 	|  14 	|  12 	|  8  	|  7  	|  8  	|
 
 
 <!-- Languages -->
-
+### Languages 
+- Common
+- Goblin
+- Orc
+- Sylvan
 
 ## Background
 Bart, short for Bartholemew, is a half-orc fighter who's convinced he's a wizard.
@@ -28,6 +30,5 @@ In other words, he hits or throws things very hard and fast.
 Bart is known for using a sickly looking quarterstaff he carved out of Plague Tree wood he obtained from his first guild mission.
 He has become very proficient in throwing weapons.
 
-His best friend is Leal'tad. 
 
-![Bart](/img/players/Bart_and_stick.png)
+
