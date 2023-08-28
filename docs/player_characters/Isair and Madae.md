@@ -1,5 +1,9 @@
 # Isair and Madae
 
+:::danger MAEDE RIP 2023-07-03
+Fell to black slime monsters in the Black Tower mission.
+:::
+
 ![Isair and Madea](/img/players/Isair_and_Madea.png)
 
 [Isair](https://forgottenrealms.fandom.com/wiki/Isair) and [Madae](https://forgottenrealms.fandom.com/wiki/Madae) are the half-fiend twins of the devil [Belhifet](https://forgottenrealms.fandom.com/wiki/Belhifet) and the elven priestess of [Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater), [Ilmadia Bariel](https://forgottenrealms.fandom.com/wiki/Ilmadia_Bariel). Isair and Madae were born in the year 1282 DR.
