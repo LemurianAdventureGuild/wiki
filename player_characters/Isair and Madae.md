@@ -1,7 +1,9 @@
 # Isair and Madae
 
-:::danger MAEDE RIP 2023-07-03
+:::danger Made RIP 2023-07-03
+
 Fell to black slime monsters in the Black Tower mission.
+
 :::
 
 ![Isair and Madea](/img/players/Isair_and_Madea.png)
@@ -41,3 +43,45 @@ It was a lie, though. A manipulation to string Madae along. There would be enoug
 Eventually, Madae's dead drop told her to investigate a mass of elementals being led by an elf on its way to the capitol city. It was there while she was helping the wounded that she and her brother were finally reunited.
 
 (source for pre-Limbo history: Icewind Dale II)
+
+## Memorial - Madae
+
+The Guild gathers in the memorial hall to pay tribute to Rezir and Madae. Cecilia begins. "Rezir was lost to us several months ago, captured by the Syndicate. We held out hope that he might yet be rescued, but alas it was not to be. We honor Rezir's bravery and service to the Guild now that we have closure on his fate. We also honor Madae who fell this week investigating strange happenings in our nation. Madae was selfless, always putting herself at risk to help and heal others. She embodied the spirit of this Guild and we honor her here today."
+
+### Ni Ama
+
+> *Ni Ama, in a rare somber moment, comes up to Madae's portrait. Pulling her folder from her bag, she quietly removes Madae's artwork.*
+>
+> *In the background, you can see Fierfiz battling a giant crocodile, Fenris leaping out of a tree with his bow fully drawn to help, and Sarell firing a bolt at a dog like creature with fiery eyes. In the foreground, Madae stands center stage, her wings gloriously outstretched, a wickedly fierce smile on her face, a bloody Jester's cap in her left hand, a glowing orb of energy in her right.*
+>
+> "I wish....I wish I could have met you. I heard all these stories of how you saved your companion's lives, were endlessly fierce in combat, and a gifted healer. I am sure you remained so until the end." *She hangs her artwork next to the portrait, and removes a large, vibrant red flower from her hair to leave as an offering.* <<Se lamnas guide rema sat untasen umana journey, demant se fates jamost kind.>>
+
+### Q'rmet
+
+> *Q'rmet walks up.*
+> I didn't know Rezir but I did know Madae. She kindly shepherded me through my first few missions here and even was kind enough to decline to take a portion of the gold so that us lesser experienced guild members could grow more powerful faster.  She will be missed
+
+### Reysatra and Theren
+
+> *Reysatra approaches with melancholy, Theren by her side. With the grace and reverence known by Paladins she kneels in front of the altar.*
+>
+> "I only met Madae on my second mission, she helped us with the winged fiends. She is-was an honorable fighter and good companion. She will be missed"
+>
+> *Theren bows before the altar before raising his hands in a praying position.*
+>
+> "I did not know Madae, only through stories. She has now returned to nature, her soul and body continuing the path all must walk some day. May she find the peace afterwards she sought for this life"
+>
+> *After speaking both of them clutch their amulets and begin whispering words in Elvish - they sound like prayers*
+>
+> *They stay in their positions for some time. Continuing with their whispered words. The air feels light with power, plant life within the room becoming more vibrant.*
+
+### Fenris
+
+> *Fenris steps forward regretfully.* “Madae, you saved my life in the Feywild when we were battling the Redcaps. I never thanked you enough for that. Thank you for so many of us that you saved and made whole again. You’ll be missed.”
+
+### Isair
+
+> *Isair steps forward sedately, Firefiorefiddle a respectful distance away.*
+> "I remember when mother told us the truth of our heritage. That she was not our true mother, but that the woman who birthed us-" *a flash of anger in Isair's eyes that quickly cools* "-cast herself from a cliff rather than raise demonspawn. I remember that you and I promised to always be there for the other when mother passed. Even though the world was against us, we were for each other. We got through much with that. Luskan, the Blood War, the Legion of the Chimera, Limbo. Even after Limbo when we were separated, the thought of being reunited with you was what gave me strength. I was supposed to be your shield, dear sister, and I failed."
+>
+> *His composure broken, Isair crumples to the floor with a cry like a wounded animal. Firefiorefiddle puts a hand on his shoulder. When he is ready to leave, she guides him away.*
