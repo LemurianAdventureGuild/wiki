@@ -1,8 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { themes } = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -33,15 +31,6 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/LemurianAdventureGuild/wiki/tree/main/'
-        },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -65,30 +54,41 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'player_characters/README',
+            to: 'player_characters',
             position: 'left',
             label: 'Player Characters',
+            activeBaseRegex: `/player_characters/`,
           },
           {
-            type: 'doc',
-            docId: 'npcs/README',
+            to: 'npcs',
             position: 'left',
             label: 'Important NPCs',
+            activeBaseRegex: `/npcs/`,
           },
           {
-            type: 'doc',
-            docId: 'archives/guild',
+            to: 'archives/guild',
             position: 'left',
             label: 'Archives',
+            activeBaseRegex: `/archives/`,
           },
           {
-            type: 'doc',
-            docId: 'house_rules/basics',
+            to: 'news',
+            position: 'left',
+            label: 'News',
+            activeBaseRegex: `/news/`,
+          },
+          {
+            to: 'memorial',
+            label: 'Memorial',
+            position: 'right',
+            activeBaseRegex: `/house_rules/`,
+          },
+          {
+            to: 'house_rules/basics',
             label: 'House Rules',
             position: 'right',
+            activeBaseRegex: `/house_rules/`,
           },
-          { to: '/blog', label: 'Blog', position: 'right' },
           {
             href: 'https://www.echo.church/sunnyvale/',
             label: 'Echo',
@@ -100,21 +100,8 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Archives',
-                to: '/docs/archives/guild',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Bcpoole/Lemurian_Adventure_Guild',
@@ -125,12 +112,65 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Lemurian Adventure Guild, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: themes.github,
+        darkTheme: themes.dracula,
       },
     }),
 
     plugins: [
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'house_rules',
+          path: 'house_rules',
+          routeBasePath: 'house_rules',
+          sidebarPath: require.resolve('./sidebars.js'),
+        }, 
+      ],
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'archives',
+          path: 'archives',
+          routeBasePath: 'archives',
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+      ],
+      [
+        '@docusaurus/plugin-content-blog',
+        {
+          id: 'news',
+          routeBasePath: 'news',
+          path: 'news'
+        },
+      ],
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'player_characters',
+          path: 'player_characters',
+          routeBasePath: 'player_characters',
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+      ],
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'memorial',
+          path: 'memorial',
+          routeBasePath: 'memorial',
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+      ],
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'npcs',
+          path: 'npcs',
+          routeBasePath: 'npcs',
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+      ],
       [
         '@docusaurus/plugin-ideal-image',
         {
