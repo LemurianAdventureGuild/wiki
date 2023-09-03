@@ -7,7 +7,7 @@ sidebar_position: 3
 ## History
 The Holy Carmel Empire once controlled much of the continent thanks to their superior magical strength. 
 According to the legends, the emperor was actually a god in mortal form. 
-When one emperor died, his or her power would pass to another within the family who would become the next emperor. 
+When one emperor died, their power would pass to another within the family who would become the next emperor. 
 At least, that's what is claimed by the various murals and obelisks found intact in the ancient temples.
 
 Following the death of the Holy Carmel Empire's leader, Emperor Hresvelg and the purging of the imperial family, the ruling oligarchs were quick to prop up the Hershey family, long considered a branch of the imperial family. 
