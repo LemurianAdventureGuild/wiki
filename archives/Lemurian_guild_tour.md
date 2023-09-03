@@ -5,7 +5,7 @@ sidebar_position: 1
 # Lemurian Guild Tour
 
 :::note Guild Sanctioned Tour Guide
-Welcome to the Lumerian Guild, this is Penelope. I will be your guide today you. Please join me while we explore everything we have to offer here in the city.
+Welcome to the Lumerian Guild, this is **Penelope**. I will be your guide today you. Please join me while we explore everything we have to offer in the city.
 :::
 
 ## Overview
