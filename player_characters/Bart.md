@@ -30,5 +30,5 @@ In other words, he hits or throws things very hard and fast.
 Bart is known for using a sickly looking quarterstaff he carved out of Plague Tree wood he obtained from his first guild mission.
 He has become very proficient in throwing weapons.
 
-
-
+## Player 
+Player - Chris
