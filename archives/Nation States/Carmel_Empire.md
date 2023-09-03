@@ -11,7 +11,7 @@ When one emperor died, their power would pass to another within the family who w
 At least, that's what is claimed by the various murals and obelisks found intact in the ancient temples.
 
 Following the death of the Holy Carmel Empire's leader, Emperor Hresvelg and the purging of the imperial family, the ruling oligarchs were quick to prop up the Hershey family, long considered a branch of the imperial family. 
-hough Augustus Hershey had the backing of the government, it was clear that he lacked the magical might of Hresvelg. Without this magic, the empire slowly crumbled both from within and without.
+Though Augustus Hershey had the backing of the government, it was clear that he lacked the magical might of Hresvelg. Without this magic, the empire slowly crumbled both from within and without.
 Neighboring territories began to carve into the outskirts of the vast empire, and Hershey lacked the strength to maintain such large borders. 
 Meanwhile, the people suffered a series of poor crop years that the oligarchs could not adequately resolve. 
 Over the course of 50 years, the newly formed Hershey Empire was a shadow of the old Holy Carmel Empire's might. An even deeper blow was when half of the remaining empire seceded to form the Carmel Kingdom, cutting their meager holdings in half. 
