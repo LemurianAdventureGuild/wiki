@@ -50,6 +50,3 @@ Carmel tombs are often protected by golems animated with complex runiforms.
 > Most enchanted objects like this require some kind of magical focus to help the spell draw in and use magic from the environment, usually a gemstone of some kind. 
 > In this case, the runes are arranged around the symbol of the Holy Carmel Empire, and the runes state something that seems to translate to "By the Eternal Strength of the Imperial Family" as the source of magic. 
 > > Librarian Jerimiah
-
-## metadata
-Last Update: 8/26/23
