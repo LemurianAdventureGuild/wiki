@@ -7,11 +7,11 @@ sidebar_position: 3
 ## History
 The Holy Carmel Empire once controlled much of the continent thanks to their superior magical strength. 
 According to the legends, the emperor was actually a god in mortal form. 
-When one emperor died, his or her power would pass to another within the family who would become the next emperor. 
+When one emperor died, their power would pass to another within the family who would become the next emperor. 
 At least, that's what is claimed by the various murals and obelisks found intact in the ancient temples.
 
 Following the death of the Holy Carmel Empire's leader, Emperor Hresvelg and the purging of the imperial family, the ruling oligarchs were quick to prop up the Hershey family, long considered a branch of the imperial family. 
-hough Augustus Hershey had the backing of the government, it was clear that he lacked the magical might of Hresvelg. Without this magic, the empire slowly crumbled both from within and without.
+Though Augustus Hershey had the backing of the government, it was clear that he lacked the magical might of Hresvelg. Without this magic, the empire slowly crumbled both from within and without.
 Neighboring territories began to carve into the outskirts of the vast empire, and Hershey lacked the strength to maintain such large borders. 
 Meanwhile, the people suffered a series of poor crop years that the oligarchs could not adequately resolve. 
 Over the course of 50 years, the newly formed Hershey Empire was a shadow of the old Holy Carmel Empire's might. An even deeper blow was when half of the remaining empire seceded to form the Carmel Kingdom, cutting their meager holdings in half. 
@@ -50,6 +50,3 @@ Carmel tombs are often protected by golems animated with complex runiforms.
 > Most enchanted objects like this require some kind of magical focus to help the spell draw in and use magic from the environment, usually a gemstone of some kind. 
 > In this case, the runes are arranged around the symbol of the Holy Carmel Empire, and the runes state something that seems to translate to "By the Eternal Strength of the Imperial Family" as the source of magic. 
 > > Librarian Jerimiah
-
-## metadata
-Last Update: 8/26/23
