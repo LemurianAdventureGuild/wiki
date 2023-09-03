@@ -17,7 +17,7 @@ They have since been kidnapped by the Syndicate.
 The guild has been searching for clues on where they are being held.
 They uncovered a ritual where Yuna was being held in the center.
 The whole guild mobilized to disrupt the ritual.
-As the ritual was about to come to fruition, [Feirfiz](../../player_characters/Feirfiz) slew Yuna, preventing her from being transformed into The Black Dragon.
+As the ritual was about to come to fruition, Feirfiz slew Yuna, preventing her from being transformed into The Black Dragon.
 
 Later, Rikku was discovered to be working with the Syndicate to develop their alchemical soldier program. She was rescued and returned to the Guild, but has been damaged by the experience and is under a Devil's Contract.
 
