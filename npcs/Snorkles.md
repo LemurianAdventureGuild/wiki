@@ -25,7 +25,3 @@ Guild members must babysit Snorkles while he actively makes their lives harder.
 
 
 
-## Metadata
-Last Update: 8/27/23
-
-
