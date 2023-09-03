@@ -37,7 +37,7 @@ There are numerous depictions of rulers leading their troops into battle and wre
 The emperor was so powerful, it was believed that the emperor was either a god themselves or their bloodline descended from the gods (scholars argue what exactly the people of the time believed, or if there were conflicting sects within the empire). Many theorists think it more likely that the emperor's family carried a sorcerous bloodline of great power, used this power to claim divinity or divine blessing, and in this way maintained control of the empire.
 Scholars also note that in all of the murals and reliefs of battle, the emperor is always carrying an object of some kind that appears to be important in channeling the magic. 
 The writings on some temples give indications of artifacts that would only function when held or wielded by the divine blood and in mortal hands would stay inert and powerless. 
-No such artifact has ever been found, though one scholar (a certain [Carolina Tomes](docs/npcs/carolina_jones.md) no less) cheekily notes that it is possible that such an artifact has been found, but it appears as a normal object to those that have examined it as their blood is not divine.
+No such artifact has ever been found, though one scholar (a certain [Carolina Tomes](../../npcs/carolina_jones) no less) cheekily notes that it is possible that such an artifact has been found, but it appears as a normal object to those that have examined it as their blood is not divine.
 
 
 ## Carmel Magic
