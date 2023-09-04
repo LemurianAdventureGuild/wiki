@@ -9,7 +9,7 @@ There is some RP etiquette Lemurian Guildmembers go by and here are some tips an
 
 ## Speaking in Character
 
-Players will note whether they are speaking in character or out of character with a combination of `"quotation marks"`, `(parathesises)`, *`italics`*, and other writting conventions. Players can format their discord messages what is shown below.
+Players will note whether they are speaking in character or out of character with a combination of `"quotation marks"`, `(parathesises)`, *`italics`*, and other writting conventions. Players can format their discord messages with the formatting shown below.
 
 - `"Quotation Marks"` are used to specify when a character is speaking **in character**.
 - *`italics`* are used to describe a setting or character action **in character**
@@ -23,7 +23,7 @@ Players will note whether they are speaking in character or out of character wit
 
 - `*Italics*` --> *Minimo the Mouse looks at Eligos in excitement and mounts the dashing owl.*
 - `**Bold**` --> **Eligos crashes**
-- ` ```A Letter``` ` --> ```Eligos, your medical copay is 5000gp```
+- ` ```A Letter``` ` --> ```Eligos, your medical copay is 5000gp.```
 
 
 ## Tip: Communication is Key
