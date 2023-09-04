@@ -6,4 +6,4 @@ The DMs do not recommend creating more than 2 characters as this will drasticall
 
 ## New Character Creation
 
-Please roll character stats with Avrae in the discord. You can do so with the command ```!rollstats```.
+Please roll character stats with Avrae in the Discord, preferably in your DM private chat for ease-of-reference. You can do so with the command ```!rollstats``` which is configured to do 4d20kh3 * 7, so drop your lowest (or be risky and drop a higher one!).
