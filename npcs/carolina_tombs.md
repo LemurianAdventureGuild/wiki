@@ -4,7 +4,7 @@ Affiliations: Indepenent
 
 Status: Missing
 
-![Carolina_Jones](/img/npcs/Carolina_Jones.png)
+![Carolina_Tombs](/img/npcs/Carolina_tombs.png)
 
 ## Background
 
