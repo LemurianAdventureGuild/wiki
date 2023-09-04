@@ -13,7 +13,7 @@ Use ```!import [dndbeyond character hyperlink]``` where the [dndbeyond character
 Below is an example of where the share link is. 
 ![Avrae_Example](/img/avrae_share_example.png)
 
-You can do ```!rollstats``` to roll stats for a new character.
+You can do ```!rollstats``` to roll stats for a new character. Refer to [the multiple characters page](multiple_characters) for more information.
 
 ## Common Rolls
 
@@ -25,3 +25,7 @@ You can do ```!rollstats``` to roll stats for a new character.
 - ```!check performance adv``` rolls a performance check with advantage
 - ```!check stealth dis``` rolls a stealth check with disadvantage
 - ```!save charisma``` rolls a charisma saving throw
+
+:::tip 
+"Avrae is fair and just."
+:::
