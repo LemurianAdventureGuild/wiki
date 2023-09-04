@@ -58,8 +58,15 @@ The guild responded to an attack on the City of Dow. They dispatched a couple wa
 
 A guild outpost sent a message that it was being attacked. A team was sent and encountered two Alchemically Enhanced soldiers slaughtering the Guild members at the outpost. During the encounter the team discovered that an invisible magic caster, Doc, was supervising the attack and taking notes. The two enhanced soldiers were defeated and Doc escaped through a Syndicate portal. The corpses of the soldiers were brought back to Guild Headquarters and Gaille was able to question them. We were able to learn that the Syndicate was testing an updated version of their alchemical super soldier serum that had been administered at a Rae Lake village lab.
 
+## Known Members
+- [Dr. Mauro Doc](../npcs/Syndicate%20NPCs/Dr_Mauro_Doc)
+- Zeradnyk
+- Raventh
+- Agmus Aldron, Alchemist
+
 ## Guild Members captured by the Syndicate
 
 - Rezir
 - Numrikar
 - Reventh
+
