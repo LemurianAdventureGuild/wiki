@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
 ---
+# Lemuria
 
-# History of Lemuria
+## History of Lemuria
 
 ![history](/img/archives/history.png)
 
