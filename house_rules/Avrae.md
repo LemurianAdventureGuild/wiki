@@ -4,7 +4,7 @@
 Avrae is the internal and external will of the universe. Pray they take pity on you.
 :::
 
-Avrae is a discord dnd-plugin used to roll dice and ability checks in the discord server.
+[Avrae](https://avrae.io/) is a Discord bot for D&D used to roll dice and ability checks in the Lemurian Discord server.
 
 ## Setting up
 
@@ -17,7 +17,8 @@ You can do ```!rollstats``` to roll stats for a new character.
 
 ## Common Rolls
 
-- ```!char [character name]``` changes your active character to [character name]. This requires loading your characters before hand
+- ```!char [character name]``` changes your active character to [character name]. This requires loading your characters beforehand.
+It will try to match from among your characters, so if your characters are `Bob` and `Faerun`, you can shorthand Faerun to `!char Fa`.
 - ```!update``` updates your character with their latest stats from DNDBeyond
 - ```!roll 1d20``` rolls a single 20 sided die.
 - ```!roll 1d20 -b 2``` rolls a single 20 sided die +2
