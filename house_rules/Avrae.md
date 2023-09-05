@@ -4,7 +4,7 @@
 Avrae is the internal and external will of the universe. Pray they take pity on you.
 :::
 
-Avrae is a discord dnd-plugin used to roll dice and ability checks in the discord server.
+[Avrae](https://avrae.io/) is a Discord bot for D&D used to roll dice and ability checks in the Lemurian Discord server.
 
 ## Setting up
 
