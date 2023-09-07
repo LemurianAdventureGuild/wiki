@@ -8,6 +8,8 @@ Fell to black slime monsters in the Black Tower mission.
 
 ![Isair and Madea](/img/players/Isair_and_Madea.png)
 
+## Background
+
 [Isair](https://forgottenrealms.fandom.com/wiki/Isair) and [Madae](https://forgottenrealms.fandom.com/wiki/Madae) are the half-fiend twins of the devil [Belhifet](https://forgottenrealms.fandom.com/wiki/Belhifet) and the elven priestess of [Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater), [Ilmadia Bariel](https://forgottenrealms.fandom.com/wiki/Ilmadia_Bariel). Isair and Madae were born in the year 1282 DR.
 
 Ilmadia's first death was at the hands of adventurers in the year 1281 DR who were seeking to thwart the plans of the devil Belhifet, whom Ilmadia only knew as Revered Brother Poquelin.
