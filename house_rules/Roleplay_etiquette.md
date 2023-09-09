@@ -2,8 +2,9 @@
 
 ## Overview
 
-The Discord is an RP (ie Roleplay) server, meaning players will interact with other players and the world as if they were their character(s). 
-The server is a safe space to expand and build upon the stories and lore of the world as well as develop player characters stories. .
+The Discord is an Roleplay (RP) server, meaning players will interact with other players and the world as if they were their character(s).
+It is an entirely optional component for those who show up Mondays, but we have an active community who want more opportunties to RP among the Guild, and we even have some RP-only players.
+The server is a safe space to expand and build upon the stories and lore of the world as well as develop player characters stories.
 
 There is some RP etiquette Lemurian Guildmembers go by and here are some tips and tricks to understand everything that happens around the guild. 
 
@@ -26,18 +27,19 @@ Players will note whether they are speaking in character or out of character wit
 - ` ```A Letter``` ` --> ```Eligos, your medical copay is 5000gp.```
 
 
-## Tip: Communication is Key
+## Communication is Key
 
-Player Characters (ie PCs) are very personal things to players. If your PC would do something that is harmful or seen as hurtful to another player, please talk to them privately first. The line between PC and player can blur sometimes and clear communication is what keeps the game fun.
+Player Characters (PCs) are very personal things to players. If your PC would do something that is harmful or seen as hurtful to another player, please talk to them privately first. The line between PC and player can blur sometimes and clear communication is what keeps the game fun.
 
 :::note Example 1
-> Over-protective the wizard angrily yells at Naive the rogue for leaking that Over-protective's sibling is in a devil's contract. 
 
-It can be helpful to communicate that Over-protective would be angry at Naive, not Naive's character.
+> Overious Protectivious the wizard angrily yells at Naivee the rogue for leaking that Overious's sibling is in a devil's contract. 
+
+It can be helpful to communicate that Overious Protectivious would be angry at Naivee, not Nick who plays Naivee.
 :::
 
 :::note Example 2
-> Klepto the rogue likes small shiny things. Steampunk the wizard has small shiny gears she needs for her arm to work. Klepto steals Steampunk's arm gears. Steampunk procceds to polymorph Klepto into a frog for the next week.
+> Klepto the rogue likes small shiny things. Steampunk the wizard has small shiny gears she needs for her prosthetic arm to work. Klepto steals Steampunk's arm gears. Steampunk proceeds to polymorph Klepto into a frog for the next week.
 
 Before stealing from other players, be prepared for consequences. 
 :::

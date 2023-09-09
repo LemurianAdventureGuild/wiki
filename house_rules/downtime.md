@@ -99,7 +99,7 @@ graph LR;
 :::caution L-SCAB Fees
 The Lemurian Skill Certification Approval Board (L-SCAB) will not recognize skill certification until they are paid.
 
-gp can be paid at any point but the skill is only learned once the gold has been paid to the L-SCAB.
+Fees can be paid at any point, but the skill is only learned once the gold has been paid to the L-SCAB.
 :::
 
 ### Combat Skills
