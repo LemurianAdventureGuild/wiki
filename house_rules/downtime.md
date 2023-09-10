@@ -85,7 +85,22 @@ Bonus missions take place after the rest, so any spells or abilities used and da
 
 ### Learn or Improve a Skill
 
-Work towards learning a skill you are currently not proficient in or becoming an expert in a skill you are proficient in. This includes learning to work with tools or new languages. These activities will have high thresholds and high gold costs.
+Work towards learning a **skill** you are currently not proficient in or becoming an expert in a skill you are proficient in. This includes learning to work with **tools** or new **languages**. These activities will have high thresholds and high gold costs.
+
+Improving skill proficiencies requires that a character build their proficiency sequestially over time from not proficient to expertise.
+
+```mermaid
+graph LR;
+    Not-Proficient-->Half-Proficient;
+    Half-Proficient-->Proficient;
+    Proficient-->Expertise;
+```
+
+:::caution L-SCAB Fees
+The Lemurian Skill Certification Approval Board (L-SCAB) will not recognize skill certification until they are paid.
+
+Fees can be paid at any point, but the skill is only learned once the gold has been paid to the L-SCAB.
+:::
 
 ### Combat Skills
 
