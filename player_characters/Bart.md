@@ -93,7 +93,7 @@ It was later realized that Leal'tad and Gen were not dead and that Bart's death 
 > At this point, Chuck uses shape water to make a cat.  The cat leaps delicately onto the body and nuzzles Bart’s face before disappearing.
 
 #### Eligos
-> Eligos walks up to set a feather at top the pillow in which Bart' head rests. He opens and closes his beak, at as loss for words. 
+> Eligos walks up to set a feather at top of the pillow in which Bart's head rests. He opens and closes his beak, at as loss for words. 
 > 
 > After a long silence, he sighs before saying, "You died as you had lived: devoting yourself to your friends with reckless abandon. Many of us would not be here if not for your bravery, and every battle seemed less impossible with your presence. Thank you for buoying our spirits and bringing joy in the rest between missions."
 > 
@@ -112,7 +112,7 @@ It was later realized that Leal'tad and Gen were not dead and that Bart's death 
 
 #### Draven
 > Draven brings a bucket of sticks.
-> "This is for you dude"
+> "This is for you dude."
 > He spreads the sticks around the bed.
 
 #### Illantris
