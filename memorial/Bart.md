@@ -126,5 +126,10 @@ It was later realized that Leal'tad and Gen were not dead and that Bart's death 
 > 
 > When Lea doesn't move forward on their own, Cheya puts Gen down and takes their arm to lead them carefully towards Bart's body. They stand there for a few minutes, mouthing words in a low mournful hum of whispered Celestial, before turning their head and refusing to look any longer.
 
+#### Bard
+> Bard walks up and places a knotted rope atop Barts Chest “I will always cherish the memory of you dangling Fitz on a stick with this rope. May it also symbolize the bond we share as you saved my life that same day, I’m sorry I was not there for you my friend” 
+> 
+> Bard salutes as tears stream down his face
+
 ## Player 
 Played by Chris Pitterle.
