@@ -15,7 +15,7 @@ Hearing of the Lemurian Adventure Guild's Fey Portal, he infiltrated the Guild *
 
 His archnemesis is Trithagerous due to his annoying nature.
 
-Tar'kiz powers his artificer cannon within a Möbius Cube battery powered by a demon he sealed away summoned by [Ravinust](./Ravinust) by accident in the library.
+Tar'kiz powers his artificer cannon within a Möbius Cube battery powered by a demon he sealed away summoned by [Ravinust](../../player_characters/Ravinust) by accident in the library.
 
 ## Languages
 
