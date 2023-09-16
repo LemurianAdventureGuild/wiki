@@ -1,5 +1,9 @@
 # Tar'kiz
 
+:::info In-game: PC to NPC
+Brandon's ascendance to DM means his characters have become NPCs.
+:::
+
 Thri'kreen Artificer Artillerist
 
 ![Tar'kiz building in his lab](/img/players/Tarkiz.png#gh-light-mode-only)
@@ -15,10 +19,14 @@ Tar'kiz powers his artificer cannon within a Möbius Cube battery powered by a d
 
 ## Languages
 
-Common, Infernal,Primordial, Telepathy (don't need to share a language, but the contacted creature must understand at least one), Thri-kreen
+Common, Infernal, Primordial, Telepathy (don't need to share a language, but the contacted creature must understand at least one), Thri-kreen
 
 *"Thri-kreen telepathy has no limitations of language barriers with intelligent creatures."*
 
 *"Devil engineering makes good weapo... I mean thermodynamics, so I learned their language.*
 
 *Gnomish since they're known for being tinkerers.*
+
+## Retiring from Adventuring
+
+Tar'kiz has retired from adventuring and is now one of the primary portal tuners.
