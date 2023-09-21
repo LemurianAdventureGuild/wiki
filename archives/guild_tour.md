@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Lemurian Guild Tour
 
 :::note Guild Sanctioned Tour Guide

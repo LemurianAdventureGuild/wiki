@@ -22,7 +22,11 @@ The Syndicate uses a branch and cell structure which makes rooting out the entir
 
 ### Kidnapped Rikku
 
-?
+Rikku was captured by the Syndicate along with Yuna and Paine. She was put under a devil's contract brainwashed with a gaess to assist in making the super hero syndrome. 
+
+She was successfully rescued by guildmembers and is now recovering safety in the guild. She is still under a devil's contract and is unable to talk much about her experiences.
+
+See [Rikku's page](../npcs/guild/tavern_trio) for more information.
 
 ### Kidnapped Paine
 
