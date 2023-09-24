@@ -1,6 +1,6 @@
 # Gaille
 
-:::danger RIP 23-09-18
+:::danger RIP 2023-09-18
 Died trying to retrieve several cards of the Deck of Many Thing from a Vorpal Rabbit's den. 
 :::
 
@@ -16,7 +16,7 @@ Gaille went to the Isle of Rabbits with Minimo, Ikey, and Eligos upon hearing th
 
 In the final minutes before the portal pulled everyone back Gaille [misty stepped](https://www.dndbeyond.com/spells/misty-step) behind the Vorpal Rabbit, trying to reach for the cards. The Rabbit lunged. The Rabbit was faster. The portal called the rest of the team back as they saw Gaille's head explode from the Vorpal Rabbit's pounce. 
 
-### Memorial
+### Memorial - Eulogies
 
 #### Openning Words - Cecilla
 > The Guild gathers in the memorial hall to pay respects to Gaille. Penelope places another beautiful painting up on the main stage. Cecilia is the first to speak. "Today we honor the life of Gaille, one of our veteran members. Gaille was driven and true to her convictions. She had a dream of pushing the boundaries and conceptions of necromancy to be a tool for good. We should all strive to follow her example to pursue our dreams and better the world around us."
@@ -74,7 +74,7 @@ In the final minutes before the portal pulled everyone back Gaille [misty steppe
 >
 > "I barely got to know you but you were, no are, so much to everyone here, Gaille. Few people live long in our line of work and few have lived longer than you. As a fellow knowledge seeker, I have always admired your work and placed them among the greats like Tar'kiz. Few people are remembered after they are gone. Your name and story will be remembered by the people, and even plants, that you met." 
 >
-> *Minimo joins Sir Giblet in the mournful song 'Until the End'*
+> *Minimo joins Sir Giblet in the mournful song ['Until the End'](https://www.youtube.com/watch?v=LF21VOQvzEs&ab_channel=Vindsvept%2Cfantasymusic)*
 
 #### Eligos
 > *Eligos's talons click against the flooring as he makes his way to the podium. The absence of a body berates him with failure. For a disorientating moment, he's not sure if he should address the audience or Gaille's spirit -- as he had addressed Bart's corpse only a week before.*
