@@ -34,7 +34,7 @@ See [Rikku's page](../npcs/guild/tavern_trio) for more information.
 
 ## Past Interactions with the Guild
 
-### Enhanced Serial Killer
+### Enhanced Serial Killer - Super Soldier Syrum
 
 The Guild was sent to stop a a wave of serial killings. During the mission they were able to recover the body of one of the serial killers. Rikku examined the corpse and determined that the body was physically enhanced through alchemy. A side effect of the treatment was deterioration of sections of the brain.
 
