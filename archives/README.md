@@ -2,12 +2,16 @@
 sidebar_position: 1
 sidebar_label: Intro
 ---
+<!--Needed for Minimo Scribbles-->
+import Admonition from '@theme/Admonition';
 
 # The Archives
 
-:::info Minimo's Scribbles
-"Stories are forgotten, heros die, notes are buried. Knowledge is only forever if it is accessible." - Minimo
-:::
+<Admonition type="caution" icon="🐀" title="">
+    <p>
+    "Stories are forgotten, heros die, notes are buried. Knowledge is only remembered if it is accessible." - Minimo
+    </p>
+</Admonition>
 
 The Lemurian Adventure Guild Archives is a repository of knowledge for Lemurian guildmembers. It contains a mixture of dossiers, notes, folders, and stories volenteers have compiled overtime. 
 
