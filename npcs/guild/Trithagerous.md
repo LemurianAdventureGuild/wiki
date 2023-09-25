@@ -1,7 +1,7 @@
 # Trithagerous Magnimus
 
 :::info In-game: PC to NPC
-Brandon's ascendance to DM means his characters have become NPCs.
+Brandon's ascendance to Elder DM means his characters have become NPCs.
 :::
 
 Goblin Zealot Barbarian
