@@ -1,7 +1,7 @@
 # Cheya Kov
 
 :::caution Retired from Guildwork - 9/15/23
-Cheya left with Lad and Gen after Lea's halo broke.
+Cheya left with Lea and Gen after Lea's halo broke.
 :::
 
 ## Class and Race
