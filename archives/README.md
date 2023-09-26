@@ -13,7 +13,7 @@ import Admonition from '@theme/Admonition';
     </p>
 </Admonition>
 
-The Lemurian Adventure Guild Archives is a repository of knowledge for Lemurian guildmembers. It contains a mixture of dossiers, notes, folders, and stories volenteers have compiled overtime. 
+The Lemurian Adventure Guild Archives is a repository of knowledge for Lemurian guild members. It contains a mixture of dossiers, notes, folders, and stories volenteers have compiled overtime. 
 
 If a person is lucky, they might find their answers in the Archives.
 
