@@ -1,9 +1,7 @@
 # Isair and Madae
 
-:::danger Made RIP 2023-07-03
-
+:::danger Madae RIP 2023-07-03
 Fell to black slime monsters in the Black Tower mission.
-
 :::
 
 ![Isair and Madea](/img/players/Isair_and_Madea.png)

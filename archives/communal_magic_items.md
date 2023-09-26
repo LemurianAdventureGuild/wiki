@@ -1,6 +1,6 @@
 # The Goblin's Hoard
 
-Pitched as an idea by [Trithagerous](../player_characters/Trithagerous) after the retrieval of the [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) during The Poisoned Cistern, there is a communal collection of non-attunement magic items accessible to members of the guild depending on the needs of a mission.
+Pitched as an idea by [Trithagerous](../npcs/guild/Trithagerous) after the retrieval of the [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) during The Poisoned Cistern, there is a communal collection of non-attunement magic items accessible to members of the guild depending on the needs of a mission.
 
 ---
 
