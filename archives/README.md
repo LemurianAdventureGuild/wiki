@@ -18,7 +18,7 @@ The Lemurian Adventure Guild Archives is a repository of knowledge for Lemurian 
 If a person is lucky, they might find their answers in the Archives.
 
 :::tip
-The Archives are the in-game name for the wiki. It is maintained by volenteers.
+The Archives are the in-game name for the wiki. It is maintained by volunteers.
 
 Check the Archives for in-game history and you might be able to avoid spending time units on research :wink:.
 :::
