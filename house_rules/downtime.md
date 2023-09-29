@@ -51,7 +51,7 @@ Research a topic in the library or investigate something in the guild. Threshold
 
 ### Jobs
 
-Do a job for payment. A good way to earn some cash. There are no thresholds for jobs, and instead you are paid out based on the result of your rolls. Typical payout is ~25gp per time unit spent.
+Do a job for payment. A good way to earn some cash. There are no thresholds for jobs, and instead you are paid out based on the result of your rolls. Typical payout is ~35gp per time unit spent.
 
 :::note Job Pay Formula
 The gold payout is calculated with [15gp per time unit] + [combined rolls]. 

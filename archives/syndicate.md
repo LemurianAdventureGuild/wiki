@@ -22,7 +22,11 @@ The Syndicate uses a branch and cell structure which makes rooting out the entir
 
 ### Kidnapped Rikku
 
-?
+Rikku was captured by the Syndicate along with Yuna and Paine. She was put under a devil's contract brainwashed with a gaess to assist in making the super hero syndrome. 
+
+She was successfully rescued by guildmembers and is now recovering safety in the guild. She is still under a devil's contract and is unable to talk much about her experiences.
+
+See [Rikku's page](../npcs/guild/tavern_trio) for more information.
 
 ### Kidnapped Paine
 
@@ -30,7 +34,7 @@ The Syndicate uses a branch and cell structure which makes rooting out the entir
 
 ## Past Interactions with the Guild
 
-### Enhanced Serial Killer
+### Enhanced Serial Killer - Super Soldier Syrum
 
 The Guild was sent to stop a a wave of serial killings. During the mission they were able to recover the body of one of the serial killers. Rikku examined the corpse and determined that the body was physically enhanced through alchemy. A side effect of the treatment was deterioration of sections of the brain.
 
