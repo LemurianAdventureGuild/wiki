@@ -61,18 +61,22 @@ When performing downtime jobs, you can report your rolls, number of time units s
 
 Here are some example types of jobs that Guild members have performed, along with the corresponding skill rolls:
 * **Physical labor**: Athletics + Constitution
-* **Tavern cooking**: Dexterity + Wisdom (#tavern)
-* **Waiting tables**: Dexterity + Charisma (#tavern)
-* **Gardening**: Nature + Survival (#the-garden)
 * **Soliciting donations**: Persuasion + History
 * **Guard duty**: Consititution + Perception
-* **Research assistance**: Intelligence + Wisdom (#library)
 * **Hunting/skinning**: Survival + Sleight of Hand
 * **Guild paperwork**: Intelligence + Wisdom
 * **Arcane lecturing**: Arcana + Performance
-* **Veterinary Clinic**: Nature + Animal Handling (#the-infirmary)
-* **Children's Hospital Clinic**: Persuasion + Medicine _OR_ Sleight of Hand + Medicine (#the-infirmary)
 * **Wildlife Tour Guide**: Animal Handling + History
+* **`#tavern` jobs**
+   * **Tavern cooking**: Dexterity + Wisdom
+   * **Waiting tables**: Dexterity + Charisma
+* **`#the-garden` jobs**
+   * **Gardening**: Nature + Survival
+* **`#library` jobs**
+   * **Research assistance**: Intelligence + Wisdom
+* **`#the-infirmary` jobs**
+   * **Veterinary Clinic**: Nature + Animal Handling
+   * **Children's Hospital Clinic**: Persuasion + Medicine _OR_ Sleight of Hand + Medicine
 
 You are also welcome to propose different kinds of jobs that your character would like to perform, and a DM can work with you to determine appropriate rolls.
 
