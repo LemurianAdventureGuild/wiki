@@ -1,8 +1,8 @@
 # Fenris
 
-Wood Elf Ranger (Hunter)
+Wood Elf Ranger (Hunter) / Rogue (Scout)
 
-Style: Damage dealing archer with decent investigation skills
+Style: Damage dealing archer with excellent stealth and investigation skills
 
 ![Fenris](/img/players/Fenris.png)
 
@@ -16,4 +16,4 @@ Word floated through Faundell of a far off Guild, fighting the battles that need
 
 ## Languages
 
-Common, Elvish, Dwarvish, Sylvan
+Common, Elvish, Dwarvish, Sylvan, Thieves' Cant
