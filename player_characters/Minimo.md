@@ -1,5 +1,7 @@
 # Minimo
 
+![Minimo](/img/players/Minimo.jpg)
+
 ## Class and Race
 Kangeroo mousekin bladesinger wizard
 
