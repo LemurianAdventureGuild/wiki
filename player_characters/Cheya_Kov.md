@@ -18,7 +18,7 @@ They found Lea on their travels and took them under their wing. They are practic
 ### Familiar: Wingnut
 Wingnut is Cheya's emotional support owl. He is precious and sweet and is an excellent child monitering system.
 
-![Wingnut](/img/players/companions/wingnut.png)
+![Wingnut](/img/players/companions/wingnut.jpg)
 
 ### Leaving the Guild
 
