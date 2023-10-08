@@ -1,5 +1,9 @@
 # Tar'kiz
 
+:::info In-game: PC to NPC
+Brandon's ascendance to Elder DM means his characters have become NPCs.
+:::
+
 Thri'kreen Artificer Artillerist
 
 ![Tar'kiz building in his lab](/img/players/Tarkiz.png#gh-light-mode-only)
@@ -11,14 +15,18 @@ Hearing of the Lemurian Adventure Guild's Fey Portal, he infiltrated the Guild *
 
 His archnemesis is Trithagerous due to his annoying nature.
 
-Tar'kiz powers his artificer cannon within a Möbius Cube battery powered by a demon he sealed away summoned by [Ravinust](./Ravinust) by accident in the library.
+Tar'kiz powers his artificer cannon within a Möbius Cube battery powered by a demon he sealed away summoned by [Ravinust](../../player_characters/Ravinust) by accident in the library.
 
 ## Languages
 
-Common, Infernal,Primordial, Telepathy (don't need to share a language, but the contacted creature must understand at least one), Thri-kreen
+Common, Infernal, Primordial, Telepathy (don't need to share a language, but the contacted creature must understand at least one), Thri-kreen
 
 *"Thri-kreen telepathy has no limitations of language barriers with intelligent creatures."*
 
 *"Devil engineering makes good weapo... I mean thermodynamics, so I learned their language.*
 
 *Gnomish since they're known for being tinkerers.*
+
+## Retiring from Adventuring
+
+Tar'kiz has retired from adventuring and is now one of the primary portal tuners.

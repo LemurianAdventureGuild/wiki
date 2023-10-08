@@ -51,7 +51,7 @@ Research a topic in the library or investigate something in the guild. Threshold
 
 ### Jobs
 
-Do a job for payment. A good way to earn some cash. There are no thresholds for jobs, and instead you are paid out based on the result of your rolls. Typical payout is ~25gp per time unit spent.
+Do a job for payment. A good way to earn some cash. There are no thresholds for jobs, and instead you are paid out based on the result of your rolls. Typical payout is ~35gp per time unit spent.
 
 :::note Job Pay Formula
 The gold payout is calculated with [15gp per time unit] + [combined rolls]. 
@@ -61,15 +61,24 @@ When performing downtime jobs, you can report your rolls, number of time units s
 
 Here are some example types of jobs that Guild members have performed, along with the corresponding skill rolls:
 * **Physical labor**: Athletics + Constitution
-* **Tavern cooking**: Dexterity + Wisdom
-* **Waiting tables**: Dexterity + Charisma
-* **Gardening**: Nature + Survival
 * **Soliciting donations**: Persuasion + History
 * **Guard duty**: Consititution + Perception
-* **Research assistance**: Intelligence + Wisdom
 * **Hunting/skinning**: Survival + Sleight of Hand
 * **Guild paperwork**: Intelligence + Wisdom
 * **Arcane lecturing**: Arcana + Performance
+* **Wildlife Tour Guide**: Animal Handling + History
+* **`#tavern` jobs**
+   * **Tavern cooking**: Dexterity + Wisdom
+   * **Waiting tables**: Dexterity + Charisma
+* **`#the-garden` jobs**
+   * **Gardening**: Nature + Survival
+* **`#library` jobs**
+   * **Research assistance**: Intelligence + Wisdom
+* **`#the-infirmary` jobs**
+   * **Veterinary Clinic**: Nature + Animal Handling
+   * **Children's Hospital Clinic**: Persuasion + Medicine _OR_ Sleight of Hand + Medicine
+
+You are also welcome to propose different kinds of jobs that your character would like to perform, and a DM can work with you to determine appropriate rolls.
 
 ### Guild Service
 
