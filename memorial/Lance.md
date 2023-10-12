@@ -1,7 +1,7 @@
 # Lance Cruise
 
-:::caution MIA - Left on a Journey
-Left to search for the Deck of Many Things in Carmel
+:::warning RIP - 9/26/23 
+Left to search for the Deck of Many Things in Carmel. Died to a green dragon on the journey.
 :::
 
 ## Background
