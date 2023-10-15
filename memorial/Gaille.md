@@ -4,6 +4,9 @@
 Died trying to retrieve several cards of the Deck of Many Thing from a Vorpal Rabbit's den. 
 :::
 
+![Gaille](/img/players/Gaille.png#gh-light-mode-only)
+![Gaille](/img/players/Gaille_undead.png#gh-dark-mode-only)
+
 Level 10 Elf Necromancer Wizard.
 
 Inheritor of Magic Brian's Staff, resident corpse interrogator, plant talker, and supplier of discounted health potions.
