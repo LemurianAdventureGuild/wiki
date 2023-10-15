@@ -13,7 +13,7 @@ Use ```!import [dndbeyond character hyperlink]``` where the [dndbeyond character
 Below is an example of where the share link is. 
 ![Avrae_Example](/img/avrae_share_example.png)
 
-You can do ```!rollstats``` to roll stats for a new character. Refer to [the multiple characters page](multiple_characters) for more information.
+You can do ```!rollstats``` to roll stats for a new character. Refer to [the multiple characters page](../multiple_characters) for more information.
 
 ## Common Rolls
 

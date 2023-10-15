@@ -16,7 +16,7 @@ You may drink this potion as a bonus action.
 Accessing and feeding this potion to another player is still a standard action.
 It takes a standard action to find another potion in your bag and move it to the quick access pouch.
 
-Alternatively, you can store a [spell scroll](./spell_scrolls#casting) in your quick action slot.
+Alternatively, you can store a [spell scroll](../Crafting%20Rules/spell_scrolls#casting) in your quick action slot.
 
 ## Quick Observation / Quick Recall
 
