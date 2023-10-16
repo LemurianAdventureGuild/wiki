@@ -2,6 +2,9 @@
 sidebar_position: 2
 ---
 
+<!--Needed for Minimo Scribbles-->
+import Admonition from '@theme/Admonition';
+
 # Invictus Syndicate
 
 ![syndicate](/img/archives/syndicate.png)
@@ -10,15 +13,27 @@ The Invictus Syndicate is a mysterious group operating in the shadows of Lemuria
 
 The Syndicate uses a branch and cell structure which makes rooting out the entire organization difficult, if not impossible. Often agents in a cell will have very few details about what they are doing, why they are doing it, or even the identity of their immediate superior. Branches seem to work independently of one another and have at times even seemed at odds with one another. Still Syndicate agents, especially those in leadership positions, are extremely powerful and are not to be taken lightly.
 
+
+
 ## Known Syndicate Plots
 
-### The Undead Lord
+### Super Soldier Serum
 
-?
+The Syndicate, to the Guild's knowledge, began their research into making super soldier serums when Gaille and other guildmates encounter a group of [enchanted serial killers on mission](#enhanced-serial-killer). Rikku diagnosed that the bodies were altered so that the recipient's mind and body into an 'alchemical abomination' (to quite Cass, medical examiner). At a later point in time, guildmembers were kidnapped by the Syndicate and forced to drink potions that left them with a range of effects -- some transient like bark skin (Red Paw) and others like a permanent ability to speak to plants (Gaille). 
 
-### The Black Dragon
+### Ashe???
 
-?
+<Admonition type="note" icon="🦉" title="Conspiracy">
+  <p>
+    🦉 looks at a conspiracy board
+
+    "This man is Sus" - 🦉
+
+    "What are you going on about?" - 🐀
+
+    "Sus sus sus sus..." - 🦉
+  </p>
+</Admonition>
 
 ### Kidnapped Rikku
 
@@ -34,7 +49,7 @@ See [Rikku's page](../npcs/guild/tavern_trio) for more information.
 
 ## Past Interactions with the Guild
 
-### Enhanced Serial Killer - Super Soldier Syrum
+### Enhanced Serial Killer
 
 The Guild was sent to stop a a wave of serial killings. During the mission they were able to recover the body of one of the serial killers. Rikku examined the corpse and determined that the body was physically enhanced through alchemy. A side effect of the treatment was deterioration of sections of the brain.
 
