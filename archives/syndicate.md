@@ -5,7 +5,7 @@ sidebar_position: 2
 <!--Needed for Minimo Scribbles-->
 import Admonition from '@theme/Admonition';
 
-# Invictus Syndicate
+## Invictus Syndicate
 
 ![syndicate](/img/archives/syndicate.png)
 
@@ -15,11 +15,25 @@ The Syndicate uses a branch and cell structure which makes rooting out the entir
 
 
 
-## Known Syndicate Plots
+## Active Syndicate Plots
+Last Update: [10/15/23]
 
 ### Super Soldier Serum
 
-The Syndicate, to the Guild's knowledge, began their research into making super soldier serums when Gaille and other guildmates encounter a group of [enchanted serial killers on mission](#enhanced-serial-killer). Rikku diagnosed that the bodies were altered so that the recipient's mind and body into an 'alchemical abomination' (to quite Cass, medical examiner). At a later point in time, guildmembers were kidnapped by the Syndicate and forced to drink potions that left them with a range of effects -- some transient like bark skin (Red Paw) and others like a permanent ability to speak to plants (Gaille). 
+The Syndicate, to the Guild's knowledge, began their research into making super soldier serums when Gaille and other guildmates encounter a group of [enchanted serial killers on a mission](#enhanced-serial-killer). Rikku diagnosed that the bodies were altered so that the recipient's mind and body were into an 'alchemical abomination' (to quote Cass, medical examiner). At a later point in time, guildmembers were kidnapped by the Syndicate and forced to drink potions that left them with a range of effects -- some transient like bark skin (Red Paw), and others like a permanent ability to speak to plants (Gaille).
+
+After the [Dow Chemical Factory incident](#attack-on-dow-chemical), Cass reports that the bodies of the super soldier proto-types were bigger and stronger than that of the norm for that species. Notable remarks include injection punctures in the arms, irregular growth spurts in the skeletal structures, brain deterioration, and alchemical irregularities with blood. 
+
+The next encounter occurred at [Rae Lake](#capture-of-numrikar-and-rezzir). The aftermath concluded with a known confirmed Syndicate alchemist (Dr. Mauro) -- who escaped using a Syndicate portal -- and two super soldier corpses. With a clever use of Speak with Dead, we learned that the Syndicate was actively refining their alchemical serum through human experimentation. Retrospectively, the attack on the Dow Chemical Factory and Mephiti attack were **distractions to procure more alchemic materials.** 
+
+At Ylisse Citadel, guild members were dispatched to take care of super soldiers running rampant. The formula for the serum has been refined: they have an innate Blur spell cast on them, higher durability (stony skin and difficult to hit), super speed, magical weapons, and a damaging force with a 25ft range. He was also resistant to physical and magical attacks. After defeating the soldier, the guildmembers found the missing Rikku speaking with another male voice. The mysterious male character conjured a Syndicate portal and both of them disappeared. Rikku, one of the Tavern Trio, is confirmed at this point to work for the Syndicate.
+
+A Syndicate alchemist, Alex, is captured on an unrelated mission. Through him, we discover that the Syndicate has placed devil contracts that bar them from exposing any secrets. When trying to parse the thoughts of devil contract holders, the caster of Detect Thoughts a Devil will expel them out of their mind.
+
+Known Syndicate Alchemists Working on the Super Soldier Serum: 
+- Dr. Mauro (status: deceased/unknown)
+- Agmus Alderon (Status: Alive, imprisoned in Numergard)
+- Rikku (Status: Rescued)
 
 ### Ashe???
 
@@ -35,6 +49,12 @@ The Syndicate, to the Guild's knowledge, began their research into making super 
   </p>
 </Admonition>
 
+### Kidnapped Paine
+
+Paine's wherabouts are currently unknown. It is suspected the Syndicate has placed her under a similar gaess as Rikku and Yuna. 
+
+## Past Interactions with the Guild
+
 ### Kidnapped Rikku
 
 Rikku was captured by the Syndicate along with Yuna and Paine. She was put under a devil's contract brainwashed with a gaess to assist in making the super hero syndrome. 
@@ -42,12 +62,6 @@ Rikku was captured by the Syndicate along with Yuna and Paine. She was put under
 She was successfully rescued by guildmembers and is now recovering safety in the guild. She is still under a devil's contract and is unable to talk much about her experiences.
 
 See [Rikku's page](../npcs/guild/tavern_trio) for more information.
-
-### Kidnapped Paine
-
-?
-
-## Past Interactions with the Guild
 
 ### Enhanced Serial Killer
 
@@ -85,7 +99,9 @@ A guild outpost sent a message that it was being attacked. A team was sent and e
 
 ## Guild Members captured by the Syndicate
 
-- Rezir
-- Numrikar
-- Reventh
-
+- Rezir (Dead)
+- Numrikar (MIA)
+- Reventh (MIA)
+- Rikku (Rescued)
+- Yuna (Dead)
+- Paine (MIA)
