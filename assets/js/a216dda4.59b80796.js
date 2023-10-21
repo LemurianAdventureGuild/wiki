@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklemurian_adventure_guild=self.webpackChunklemurian_adventure_guild||[]).push([[6620],{5056:e=>{e.exports=JSON.parse('{"label":"The Weekly Scribbles","permalink":"/wiki/news/tags/the-weekly-scribbles","allTagsPath":"/wiki/news/tags","count":1}')}}]);
