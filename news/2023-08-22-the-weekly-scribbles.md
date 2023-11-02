@@ -1,5 +1,5 @@
 ---
-title: The Weekly Scribbles
+title: The Weekly Scribbles - 08/22/23
 authors:
   - scribe
 tags: [The Weekly Scribbles]
