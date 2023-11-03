@@ -33,11 +33,11 @@ He was ecstatic to welcome his baby sister, and devastated with her death a few 
 
 ## Life in the Guild
 
-Theren caught the eye of fellow guild member Ni Ama. Ni Ama chased him for a long time until they began to court. Shortly thereafter he lost his life fighting Kruthiks. 
+Theren caught the eye of fellow guild member Ni Ama and courted her for a time.
 
 ## Death
 
-Theren went on a mission with several veteran guild members to clear out a kruthik hive. Several kruthiks realized he was a threat and proceeded to slash him along the belly in the final moments of the battle. Guildmembers saw him go down but was breathing at the time the portal pulled the team back. owever, they found he died in between the moments the portal took him back and it brought him back to the guildhall. 
+Theren went on a mission with several veteran guild members to clear out a kruthik hive. Several kruthiks realized he was a threat and proceeded to slash him along the belly in the final moments of the battle. Guildmembers saw him go down but was breathing at the time the portal pulled the team back. However, they found he died inbetween the moments the portal took him back and it brought him back to the guildhall. 
 
 :::warning Avrae is fair and just
 A natural 1 death save killed Theren on the portal back home. **Avrae is fair and just**.
@@ -49,7 +49,7 @@ Following the ceremony his ashes were planted in the garden and became a feywild
 
 ### Memorial
 
-![Theren's Memorial](/img/players/Theren_memorial.jpg)
+<img src="../img/players/Theren_memorial.jpg" alt="Theren" width="600"/>
 
 #### Chuck
 > *Chuck silently glides into the memorial room, dressed in her nun’s habit. She also takes a seat. She didn’t know Theren well, only attending one clean up mission where he drove the cart that she was guarding. Oh, and there was that Snorkles Mission, too. But she saw him in the infirmary. A lot. He was attentive to his patients. Researching many hours into tomes way above her comprehension. Chuck may not have made a deep connection with Theren but she  does know Ni Ama. And her heart breaks because she knows that the loss of Theren is almost killing her friend.*
