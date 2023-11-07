@@ -6,7 +6,7 @@ You must have the spellcasting class feature to use a spell scroll.
 If the spell scroll is of a spell level higher than what you are currently capable of casting, you must make an arcana check to cast the spell (DC = `11 + spell level`).
 If you fail the check, the spell fizzles and the spell scroll is still destroyed. Spell scrolls use the casting time of the original spell.
 
-If you wish to use a spell scroll with a cast time of `bonus action` or `reaction`, then this spell must be equipped to your [quick access slot](./Extra_Bonus_Action_Options#quick-access-potion).
+If you wish to use a spell scroll with a cast time of `bonus action` or `reaction`, then this spell must be equipped to your [quick access slot](../Combat_Rules/Extra_Bonus_Action_Options#quick-access-slot).
 
 ## Crafting
 
@@ -26,4 +26,4 @@ Spell Level | Price
 
 *higher levels upon request*
 
-![scroll being written](/img/rules/scrolls.png)
+![scroll being written](/img/rules/Crafting_Rules/scrolls.png)

@@ -20,4 +20,4 @@ Foraging requires one time unit of **Survival**. You will find a variable amount
 
 Crafting healing potions require one time unit with an **Intelligence** check plus proficiency (Alchemist's Tools). You can craft a variable number of healing potions depending on your roll.
 
-![potion](/img/rules/potion_brewing.png)
+![potion](/img/rules/Crafting_Rules/potion_brewing.png)
