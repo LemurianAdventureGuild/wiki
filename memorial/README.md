@@ -7,3 +7,5 @@ sidebar_label: Intro
 
 Life isn't cheap.
 Here are the valiant souls who have fallen in the line of duty.
+
+![Grave](/img/grave.jpg)
