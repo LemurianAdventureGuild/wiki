@@ -11,8 +11,8 @@ Resurrection spells such as [Raise Dead](https://www.dndbeyond.com/spells/raise-
 
 There are rumors of a necromancer named [Rakkar](../../npcs/rakkar) who can provide preventative measures against death for a fee. If you are wearing one of his soul crystals, you can be restored to life after death, back to a previously checkpointed level.
 
-![Resurrection light mode](/img/rules/resurrection.png#gh-light-mode-only)
-![Resurrection dark mode](/img/rules/resurrection-dark.png#gh-dark-mode-only)
+![Resurrection light mode](/img/rules/Combat_Rules/resurrection.png#gh-light-mode-only)
+![Resurrection dark mode](/img/rules/Combat_Rules/resurrection-dark.png#gh-dark-mode-only)
 
 ## Replacement Characters
 

@@ -26,4 +26,4 @@ Spell Level | Price
 
 *higher levels upon request*
 
-![scroll being written](/img/rules/scrolls.png)
+![scroll being written](/img/rules/Crafting_Rules/scrolls.png)

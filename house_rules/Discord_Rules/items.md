@@ -18,4 +18,4 @@ In general, most item's have their base dnd price though several items do differ
 - [Healer's Kit](https://www.dndbeyond.com/equipment/healers-kit) -> 50 gp
 - [Javelins](https://www.dndbeyond.com/equipment/javelin) -> 10 Javelins for 5 gp
 
-![adventurer buying items at a store](/img/rules/shopping.png)
+![adventurer buying items at a store](/img/rules/Discord_Rules/shopping.png)
