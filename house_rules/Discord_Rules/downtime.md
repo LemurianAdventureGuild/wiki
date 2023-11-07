@@ -17,7 +17,7 @@ All of these parameters will be determined by the DMs and revealed to you prior 
 You may perform downtime activities even if you missed the in person session.
 :::
 
-![variety of adventurers playing cards at the tavern](/img/rules/downtime.png)
+![variety of adventurers playing cards at the tavern](/img/rules/Discord_Rules/downtime.png)
 
 ## Multiple Characters
 

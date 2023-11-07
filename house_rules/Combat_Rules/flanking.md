@@ -5,7 +5,7 @@ In this situation, the flanking characters both have advantage against the flank
 No other creatures engaged with the enemy benefit from your flanking.
 Some creatures are immune to flanking.
 
-![flanking](/img/rules/flanking.png)
+![flanking](/img/rules/Combat_Rules/flanking.png)
 
 ## Flanking on Squares
 
