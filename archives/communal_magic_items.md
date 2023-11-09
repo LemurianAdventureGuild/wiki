@@ -10,6 +10,9 @@ Checking out an item from the Goblin's Hoard requires 1 Time Unit (TU).
 
 [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) that can optionally also spawn poisoned water.
 
+:::caution Checked out by: Bavazi
+:::
+
 ---
 
 ## The Hero's Cookpot
@@ -20,11 +23,12 @@ The effects last for up to 4 hours.
 
 ---
 
-## Amulet of Mind Reading 
+## Amulet of Detect Thoughts 
 
-It gives the wearer the ability to read another's mind.
+It gives the wearer the ability cast Detect Thoughts with 1d3 charges per long rest. It requires Attunement.
 
-It requires Attunement.
+:::caution Checked out by: Illantris
+:::
 
 ---
 
