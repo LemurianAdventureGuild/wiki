@@ -18,8 +18,8 @@ Balsabarkno, also known as Balsa, is an animal right's activist. If you pet an a
 
 ### Gotta Catch them All
 
-> Balsa is a Professor in the Lemurian Region. The garden is his research lab, where you find his pokemon lounging when they're not in pokemon battles. Spheal is his starter. Also, what are pokemon team maximum carries? No such limit exists.
-
 :::warning Beware Bidoofs and Eevee Squad
 Beware giant badgers.
 :::
+
+> Balsa is a Professor in the Lemurian Region. The garden is his research lab, where you find his pokemon lounging when they're not in pokemon battles. Spheal is his starter. Also, what are pokemon team maximum carries? No such limit exists.
