@@ -1,5 +1,8 @@
 # Crafting Potions
 
+## Rules
+The crafting character must be proficient in `Alchemist’s Tools`. Upon gaining proficiency in Alchemist’s Tools, you know the recipe for Healing Potions. All other potion recipes must be learned. 
+
 Characters must spend time learning how to brew potions and pay for materials to experiment with.
 Once a potion recipe is learned, they may spend time units to brew that potion.
 Brewing a potion requires Alchemist's Tools proficiency and characters must pay for the materials to generate the potion.
