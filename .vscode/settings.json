@@ -14,5 +14,8 @@
     "Thri'kreen",
     "Trithagerous",
     "Vedalken"
+  ],
+  "cSpell.enableFiletypes": [
+    "mdx"
   ]
 }
