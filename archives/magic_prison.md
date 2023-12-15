@@ -6,5 +6,5 @@ Numergard is a secure prison used to hold the most dangerous convicts. It has ma
 
 ## Notable Residents
 
-- *Jason Polar* - insane wizard experimenter who was kicked out of the Magical Institute.
-He was responsible for the Poisoned Cistern due to his careless disposal of broken magical items.
+- _Jason Polar_ - insane wizard experimenter who was kicked out of the Magical Institute.
+  He was responsible for the Poisoned Cistern due to his careless disposal of broken magical items.

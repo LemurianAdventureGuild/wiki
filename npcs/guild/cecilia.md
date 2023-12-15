@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-
 # Cecilia
 
 The Silver Valkyrie

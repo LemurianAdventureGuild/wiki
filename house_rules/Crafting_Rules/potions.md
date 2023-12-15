@@ -1,7 +1,8 @@
 # Crafting Potions
 
 ## Rules
-The crafting character must be proficient in `Alchemist’s Tools`. Upon gaining proficiency in Alchemist’s Tools, you know the recipe for Healing Potions. All other potion recipes must be learned. 
+
+The crafting character must be proficient in `Alchemist’s Tools`. Upon gaining proficiency in Alchemist’s Tools, you know the recipe for Healing Potions. All other potion recipes must be learned.
 
 Characters must spend time learning how to brew potions and pay for materials to experiment with.
 Once a potion recipe is learned, they may spend time units to brew that potion.
@@ -15,6 +16,7 @@ Characters may choose to spend `2 time units` on one brewing attempt, giving the
 Inquire with the DM for costs on learning and brewing potions.
 
 ### Healing Potions
+
 Supplies for crafting healing potions are available for purchase from Kahjit for 25gp per potion (payable after crafting the potion). He has a limited supply that refreshes every "week" (long rest).
 
 You may also forage for healing potion materials in a nearby grove outside the Guild. There are limited materials available each "week" as well.

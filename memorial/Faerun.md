@@ -27,11 +27,11 @@ Sorry."
 
 ### Fenris
 
-*Before he has headed off on a …wait, nothing, never mind, definitely not a mission… Fenris had said a few words in memory of Faeren.* “I remember that my first mission with the Guild was with Faeren. I was such a green recruit, plinking around with my arrows. Meanwhile, Faeren was soaring through the sky, carving up foes with her rapier and destroying others with her stealthy attacks. I was so in awe and realized I had so much work to do to reach the level of the heroes in this Guild. She has moved on, and I will continue that work to follow on the path she set.”
+_Before he has headed off on a …wait, nothing, never mind, definitely not a mission… Fenris had said a few words in memory of Faeren._ “I remember that my first mission with the Guild was with Faeren. I was such a green recruit, plinking around with my arrows. Meanwhile, Faeren was soaring through the sky, carving up foes with her rapier and destroying others with her stealthy attacks. I was so in awe and realized I had so much work to do to reach the level of the heroes in this Guild. She has moved on, and I will continue that work to follow on the path she set.”
 
 ### Trithagerous
 
-*Tri makes his way to the front with a small stack of papers*
+_Tri makes his way to the front with a small stack of papers_
 "We gather here today to remember Faerun, a beloved member of our guild. Bane of the earth, I witnessed our fierce flying swashbuckler friend strike down earth elementals and animated statues alike.
 But Faerun was more than just a formidable warrior, she was also a valued member of our group, her sharp wit and kind heart always lifted our spirits during the toughest of battles. It was her quick thinking and scouting that helped my group find and rescue those trapped children during Marphos's elemental invasion of the city.
 She will be deeply missed, but her legacy lives on through the memories of the adventures we shared together. Farewell, Faerun, may your soul soar and find peace in your journey beyond this realm."

@@ -2,27 +2,28 @@
 
 ## Casting
 
-To use a spell scroll, you must have the spell on your class spell list. 
-If the spell scroll is of a level higher than you can currently cast, you must make a spellcasting ability check to determine if you succeed with DC = `12 + spell level`. 
-On a failure, the spell fizzles and the scroll burns without effect. 
-For any scroll successfully cast, the spell save DC is 12 + spell level and the attack bonus is 2 + spell level (regardless of the person who created the scroll or who is casting it). 
+You must have the spellcasting class feature to use a spell scroll.
+If the spell scroll is of a spell level higher than what you are currently capable of casting, you must make an arcana check to cast the spell (DC = `11 + spell level`).
+If you fail the check, the spell fizzles and the spell scroll is still destroyed. Spell scrolls use the casting time of the original spell.
 
 If you wish to use a spell scroll with a cast time of `bonus action` or `reaction`, then this spell must be equipped to your [quick access slot](../Combat_Rules/Extra_Bonus_Action_Options#quick-access-slot).
 
 ## Crafting
 
-The crafting character must be proficient in **Arcana**. The appropriate spell slot and the gold cost must be supplied at the beginning of the crafting process. Any material components required for the spell must also be supplied at the beginning of crafting.
+Characters may create magic scrolls during downtime by performing the following actions:
 
-See table below for the crafting gold costs and time units.
+- Pay gp for the magical material supplies; cost depending on the level of the spell, see table below.
+- Spend time units equal to the level of the spell (ie spend 1 time unit for a first level spell, 2 time units for 2nd level, etc). This can be split across multiple rests.
+- Cast the spell from their prepared spell list and expend the spell slot.
+- Provide any material components required to cast the spell (if any).
 
-Spell Level | Price | Time Units
----|---|---
-1st | 25 gp | 1
-2nd | 75 gp | 3
-3rd | 225 gp | 6
-4th | 675 gp | 10
-5th | 2025 gp | 15
+| Spell Level | Price  |
+| ----------- | ------ |
+| 1st         | 25 gp  |
+| 2nd         | 75 gp  |
+| 3rd         | 225 gp |
+| 4th         | 675 gp |
 
-*higher levels upon request*
+_higher levels upon request_
 
 ![scroll being written](/img/rules/Crafting_Rules/scrolls.png)

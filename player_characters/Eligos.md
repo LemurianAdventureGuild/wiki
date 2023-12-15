@@ -3,6 +3,7 @@
 ![Eligos](/img/players/Eligos.png)
 
 ## Class and Race
+
 Owlin Paladin
 
 ## Background

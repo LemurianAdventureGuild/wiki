@@ -5,7 +5,7 @@
 - No magical bows (magical arrows more available)
 - [Healing Potions](https://www.dndbeyond.com/magic-items/4708-potion-of-healing)
 
-:::warning 
+:::warning
 Due to several guildmembers undercutting his prices, Khajit no longer sells Healing Potions
 :::
 

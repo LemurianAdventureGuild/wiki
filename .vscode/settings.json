@@ -15,7 +15,5 @@
     "Trithagerous",
     "Vedalken"
   ],
-  "cSpell.enableFiletypes": [
-    "mdx"
-  ]
+  "cSpell.enableFiletypes": ["mdx"]
 }

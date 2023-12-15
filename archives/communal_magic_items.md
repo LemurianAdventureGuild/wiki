@@ -6,12 +6,6 @@ Checking out an item from the Goblin's Hoard requires 1 Time Unit (TU).
 
 ---
 
-## Poisoned Decanter of Endless Water
-
-[Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) that can optionally also spawn poisoned water.
-
----
-
 ## The Hero's Cookpot
 
 When you cook a meal in this pot, it grants immunity to weather effects (damage from extreme heat or cold, movement penalties from rain, wind, or snow).
@@ -20,7 +14,7 @@ The effects last for up to 4 hours.
 
 ---
 
-## Amulet of Detect Thoughts 
+## Amulet of Detect Thoughts
 
 It gives the wearer the ability cast Detect Thoughts with 1d3 charges per long rest. It requires Attunement.
 

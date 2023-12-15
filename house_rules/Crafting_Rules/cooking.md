@@ -12,7 +12,7 @@ Roll a cooking check with Avrae using `!check wisdom -b [whatever your proficien
 
 ## Basic Recipe
 
-Once learning Chef's Tools proficiency, a character is able to create a basic magical meal that grants temporary hit points. Additional recipes may be researched and learned. 
+Once learning Chef's Tools proficiency, a character is able to create a basic magical meal that grants temporary hit points. Additional recipes may be researched and learned.
 
 ## Additional Recipes
 
@@ -29,6 +29,3 @@ These are recipes players have learned with additional research and experimentat
 #### Effects
 
 Mana Mooncakes will grant slots that may only be used in the next mission, expiring at the start of the next rest. Slots gained will partially be determined by the chef's tools check to make the cakes and learning more advanced recipes will increase the potential for more slots.
-
-
-

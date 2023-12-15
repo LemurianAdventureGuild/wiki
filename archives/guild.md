@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+
 # Lemuria
 
 ## History of Lemuria
@@ -17,14 +18,15 @@ Aestus allowed many of the local lords to retain their lands and titles in excha
 
 ## The Two Brothers
 
-For all that he unified Lemuria, historians argue over who exactly King "Adam" Aestus was. King Aestus only ever went by his last name, Aestus, and there were two contemporary Aestus brothers at the kingdom's founding. Due to the lack of records, it has led to to two competing theories over who the King exactly was, the **Traveler Brother** or the **Noble Brother**. 
+For all that he unified Lemuria, historians argue over who exactly King "Adam" Aestus was. King Aestus only ever went by his last name, Aestus, and there were two contemporary Aestus brothers at the kingdom's founding. Due to the lack of records, it has led to to two competing theories over who the King exactly was, the **Traveler Brother** or the **Noble Brother**.
 
-The **Traveler Brother** was known to travel, wander, and be an excellent conqueror. It is suspected that he journeyed and presented the deal to the Fey that led to the Portal's creation. He was the adventuring and military mind behind the nation. 
+The **Traveler Brother** was known to travel, wander, and be an excellent conqueror. It is suspected that he journeyed and presented the deal to the Fey that led to the Portal's creation. He was the adventuring and military mind behind the nation.
 
 The **Noble Brother** was supposedly an expert diplomat and able to deftly navigate the political landscape. It is suspected he wrote the deal to the Fey that led to the Portal's creation. He was the diplomatic mind behind the nation.
 
 Though King Aestus is named as "Adam Aestus" he is only referred to as such in treatises and documents that do not clarify which of the brothers was "Adam". Regardless of whoever eventually became king, the other disappeared from the historical records after the other's ascent.
 
 :::tip Ashe's Theory on the Two Brothers
+
 > "The way I see it, the traveler brother served as an ambassador to the noble brother. It makes sense that the noble would ascend to king. It's unknown what happened to the other brother regardless of which ascension you believe in. My personal theory, backed by some learnings I've obtained during my time at the Guild due to a similar relationship, is that the traveler brother went to the Feywild after Lemuria was established and served the fey court as part of his bargain he struck for their alliance." - Ashe
-:::
+> :::
