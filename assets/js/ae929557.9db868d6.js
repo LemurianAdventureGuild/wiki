@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklemurian_adventure_guild=self.webpackChunklemurian_adventure_guild||[]).push([[2872],{1845:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"player_characters"}')}}]);
