@@ -1,15 +1,16 @@
 # Alcohol Brewing
 
-## Special Brews
+## Brewing Magical Alcohols
 
-If a player has Proficiency in Brewing Supplies they can craft special special brews.
+The crafting character must be proficient in `Brewer’s Tools`. Special brews are alcoholic drinks with special properties that impact your character’s downtime in the rest periods. Each brew has the following properties: 
 
-All special brews have the following properties:
-- **Threshold**: The cumulative total you need to reach to complete the brew (one roll per time unit)
-- **Cost**: The cost of ingredients paid upon starting the brewing process.
-- **Servings**: How many servings are created. Once the cask is opened, it must be used immediately. No servings can be saved.
-- **DC**: Overindulging in alcoholic beverages can have consequences. After gaining the benefits of the drink, make a con save. If one drink was consumed, the DC is the base number. For each serving beyond the first a character consumes, the DC increases by the increment given in parentheses. On a failure, the character is poisoned for the entirety of the short rest period but recovers prior to the Monday missions.
-- **Benefit**: What the drink does for you.
+**Threshold**: The cumulative total you need to reach to complete one cask of the brew (one roll per time unit). Once completed the cask is sealed and the brew is stable until opened. The brewing process can span multiple rest periods.
+**Cost**: The cost of ingredients paid upon starting the brewing process.
+**Servings**: How many servings are created in one cask. Once the cask is opened, it must be used immediately. No servings can be saved.
+**DC**: Overindulging in alcoholic beverages can have consequences. After gaining the benefits of the drink, make a con save. If one drink was consumed, the DC is the base number. For each serving beyond the first a character consumes, the DC increases by the increment given in parentheses. On a failure, the character is poisoned for the entirety of the short rest period but recovers prior to the Monday missions.
+**Benefit**: What the drink does for you.
+
+Upon gaining proficiency in Brewer’s Tools, you know the recipes for Restorative Riesling and Studious Sangria. Additional recipes may be researched and learned. 
 
 ## Basic Recipes
 
