@@ -85,9 +85,9 @@ Following the ceremony his ashes were planted in the garden and became a feywild
 >
 > _With jerky movements she moves to a standing position, awkwardly and slowly approaching the podium. She looks at Theren's portrait for a moment, before turning to address the crowd. She looks terrified and defeated, yet she is attempting a smile_
 >
-> <<Thank you all for coming to remember Hanar I mean Theren's life. He would be shocked by the amount of people who are in attendance,, he was hard to get along with because of his prickly personality>> _She moves her hands awkwardly - not knowing if her joke came through... Though she may have forgotten not everyone can speak Elvish_
+> \<\<Thank you all for coming to remember Hanar I mean Theren's life. He would be shocked by the amount of people who are in attendance,, he was hard to get along with because of his prickly personality\>\> _She moves her hands awkwardly - not knowing if her joke came through... Though she may have forgotten not everyone can speak Elvish_
 >
-> <<He cared about people, yet never letting anyone get close. And once you were he had no problem protecting you with everything he had>> _a choked sob_ <<Well, thank you for attending, please feel free to share your thoughts>>
+> \<\<He cared about people, yet never letting anyone get close. And once you were he had no problem protecting you with everything he had\>\> _a choked sob_ \<\<Well, thank you for attending, please feel free to share your thoughts\>\>
 >
 > _Piece now said, she moves to prostrate herself before the image, whisper Elvish being heard along with sobbing_
 
@@ -164,7 +164,7 @@ Following the ceremony his ashes were planted in the garden and became a feywild
 >
 > _like in so many other funerals, Ni Ama reaches her hand down into the coffin to entice flowers to grow. However, this time....none do. Her eyes widen slightly in horror, and looks at her frosted hands, as if only now realizing...she isn't Spring anymore._
 
-> <<Wast fitting. she says bitterly....ema teuk "me" lina-ina rema Nostaarest. Rema saed....rema'd unu-unumind Leats phe was priti phe forgot. Vitili phe've forgotten, demant rema sotan't Leats. Phe sotan't rema.>>
+> \<\<Wast fitting. she says bitterly....ema teuk "me" lina-ina rema Nostaarest. Rema saed....rema'd unu-unumind Leats phe was priti phe forgot. Vitili phe've forgotten, demant rema sotan't Leats. Phe sotan't rema.\>\>
 >
 > \[Translation\] "How fitting...you took "me" with you, My First and Only. You said...you'd remind me who I was when I forgot. But I've forgotten, and you can't bring me back. Like I can't bring you back." (sylvan speakers).
 >

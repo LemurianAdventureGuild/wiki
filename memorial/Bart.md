@@ -82,7 +82,7 @@ It was later realized that Leal'tad and Gen were not dead and that Bart's death 
 
 > Ni Ama enters the room, her hair unbound and absent of flowers, in a long black dress, reminiscent of fallen leaves. She somberly approaches the coffin, hands cupped in front of her.
 >
-> “<< I am sorry I could not save you, as you tried to do for so many of us. I do not know if your soul is at peace, but I hope you know you will not be forgotten here. Thus your legacy lives on.”>> (Sylvan speakers)
+> “\<\< I am sorry I could not save you, as you tried to do for so many of us. I do not know if your soul is at peace, but I hope you know you will not be forgotten here. Thus your legacy lives on.”\>\> (Sylvan speakers)
 > “May your journeys be easy Bart. I….shall miss you greatly.”
 > placing what was in her hands around Bart’s body, the air hums around Ni Ama as lily of the valley blooms around him.
 > “I hope….perhaps…I will meet your soul in another form one day.”
@@ -95,7 +95,7 @@ It was later realized that Leal'tad and Gen were not dead and that Bart's death 
 > "You- always- keep- every--one safe-- always- make - sure we- bring- come?- back. I ad-mire you" A hitch in her voice causes her to clear her throat "Garden- will- be- quiet- now" She speaks slowly before bowing her head
 >
 > "I- I- I - am - sorry" a sob escapes, she covers her face with her hands and begins to speak in Elvish
-> <<My last words to you were harsh, I didn't want those to be the last ones. I just wanted to make sure there were no regrets. I should have been more understanding. I am so sorry.>>
+> \<\<My last words to you were harsh, I didn't want those to be the last ones. I just wanted to make sure there were no regrets. I should have been more understanding. I am so sorry.\>\>
 
 #### Chuck
 
