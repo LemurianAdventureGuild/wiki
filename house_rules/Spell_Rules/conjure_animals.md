@@ -3,7 +3,6 @@
 * [Original Spell Description](https://www.dndbeyond.com/spells/conjure-animals)
 
 ## Modifications
-Last updated: 2023-12-05
 
 ### Number of Animals
 Reduced number of animals for CR 1/4 and CR 1/2:
