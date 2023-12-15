@@ -1,6 +1,6 @@
 # Minimo
 
-![Minimo](/img/players/Minimo.jpg)
+![Minimo](/img/players/Minimo_travelling.png)
 
 ## Class and Race
 
