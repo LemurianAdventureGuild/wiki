@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Syndicate
+
 <!--Needed for Minimo Scribbles-->
 
 import Admonition from '@theme/Admonition';
