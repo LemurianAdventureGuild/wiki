@@ -21,14 +21,13 @@ The player may choose the animals conjured, instead of the DM. However, the play
 Ideally the player will agree in advance with the DM on which animals that their character should be able to conjure.
 
 ### Initiative
-The spellcaster may choose to have the conjured animals use an initiative in combat immediately after the character's, instead of rolling separate initiative.
+The player may choose to have the conjured animals use an initiative in combat immediately after the character's, instead of rolling separate initiative.
 
 ### Courtesy
 Any player using this spell should be mindful of time taken and table friendliness. Conjure Animals can be tricky to use without overwhelming a table or a DM, and wherever possible, the player should try to make things easy and fun for all parties.
 
 They may consider:
-* Using dice rollers or otherwise optimizing dice rolls (roll in advance, mob rules)
-* Be wary of having too many rider effects (excessive saves)
-* Group conjured animals (2 groups of 2, etc) for simplicity
-* Use averaged HP and damage
-
+* Using dice rollers or otherwise optimizing dice rolls for attacks, damage, etc (roll in advance, mob rules)
+* Avoiding or somehow speeding up rider effects (watch out for excessive saves)
+* Grouping conjured animals (2 groups of 2, etc) for simplicity
+* Using averaged HP and damage
