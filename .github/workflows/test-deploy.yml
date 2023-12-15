@@ -16,20 +16,14 @@ jobs:
 
       - name: Install node
         uses: actions/setup-node@v4
+        env:
+          SKIP_YARN_COREPACK_CHECK: true
         with:
           node-version: latest
+          cache: "yarn"
 
-      - name: Install Yarn stable
-        run: corepack enable |
-          yarn set version stable
-
-      - name: Extract cached dependencies
-        uses: actions/setup-node@v4
-        with:
-          cache: yarn
-
-      - name: Update dependencies
-        run: corepack yarn --immutable
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
 
       - name: Test build website
         run: yarn build
