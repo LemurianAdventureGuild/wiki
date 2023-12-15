@@ -97,7 +97,7 @@ A guild outpost sent a message that it was being attacked. A team was sent and e
 
 ## Known Members
 
-- [Dr. Mauro Doc](../npcs/Syndicate%20NPCs/Dr_Mauro_Doc)
+- [Dr. Mauro Doc](../npcs/syndicate/Dr_Mauro_Doc)
 - Zeradnyk
 - Raventh
 - Agmus Aldron, Alchemist
