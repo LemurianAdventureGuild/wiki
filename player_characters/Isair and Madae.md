@@ -54,7 +54,7 @@ The Guild gathers in the memorial hall to pay tribute to Rezir and Madae. Cecili
 >
 > _In the background, you can see Fierfiz battling a giant crocodile, Fenris leaping out of a tree with his bow fully drawn to help, and Sarell firing a bolt at a dog like creature with fiery eyes. In the foreground, Madae stands center stage, her wings gloriously outstretched, a wickedly fierce smile on her face, a bloody Jester's cap in her left hand, a glowing orb of energy in her right._
 >
-> "I wish....I wish I could have met you. I heard all these stories of how you saved your companion's lives, were endlessly fierce in combat, and a gifted healer. I am sure you remained so until the end." _She hangs her artwork next to the portrait, and removes a large, vibrant red flower from her hair to leave as an offering._ <<Se lamnas guide rema sat untasen umana journey, demant se fates jamost kind.>>
+> "I wish....I wish I could have met you. I heard all these stories of how you saved your companion's lives, were endlessly fierce in combat, and a gifted healer. I am sure you remained so until the end." _She hangs her artwork next to the portrait, and removes a large, vibrant red flower from her hair to leave as an offering._ \<\<Se lamnas guide rema sat untasen umana journey, demant se fates jamost kind.\>\>
 
 ### Q'rmet
 
