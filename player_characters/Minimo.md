@@ -1,12 +1,13 @@
 # Minimo
 
-![Minimo](/img/players/Minimo.jpg)
+<img src="../img/players/Minimo_waiter.png" alt="drawing" width="500"/>
 
 ## Class and Race
-Kangeroo mousekin bladesinger wizard
+Kangeroo mousekin Bladesinger Wizard / Rogue
 
-### Equipment
-Cloak of Elvenkind
+:::info In-game: Race
+Minimo is a reskinned Harengon
+:::
 
 ### Skills and Languages
 Cooking, Land Vehicles
@@ -22,7 +23,9 @@ Minimo will have kleptomaniac episodes whenever he is frightened or threatened. 
 
 Despite being scared of everything, Minimo calms down when he hears music. Enemies fear the lullaby sung from his lips when he enters murder mouse mode.
 
-Over his time traveling he learned how to cook really well. He hopes that when he eventually dies he'll be cooked into a good stew
+Over his time traveling he learned how to cook really well. He hopes that when he eventually dies he'll be cooked into a good stew.
+
+<img src="../img/players/Minimo_travelling.png" alt="drawing" width="450"/>
 
 Titles:
 - Tallguard
@@ -31,7 +34,8 @@ Titles:
 
 ## Familiar: Sir Giblet
 
-![Sir Giblet](/img/players/companions/Sir_Giblet.png)
+<img src="../img/players/companions/Sir_Giblet.png" alt="drawing" width="500"/>
+
 Sir Giblet is Minimo's smallguard. His is very eloquent and cleans up all of Minimo's messes.
 
 :::info In-game: Familiar
