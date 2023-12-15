@@ -21,7 +21,7 @@ jobs:
 
       - name: Install Yarn stable
         run: corepack enable |
-          corepack prepare yarn@stable --activate
+          yarn set version stable
 
       - name: Extract cached dependencies
         uses: actions/setup-node@v4
