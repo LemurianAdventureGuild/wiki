@@ -3033,7 +3033,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/plugin-content-blog@npm:3.0.1":
+"@docusaurus/plugin-content-blog@npm:3.0.1, @docusaurus/plugin-content-blog@npm:^3.0.1":
   version: 3.0.1
   resolution: "@docusaurus/plugin-content-blog@npm:3.0.1"
   dependencies:
@@ -4280,6 +4280,13 @@ __metadata:
   version: 15.7.5
   resolution: "@types/prop-types@npm:15.7.5"
   checksum: 648aae41423821c61c83823ae36116c8d0f68258f8b609bdbc257752dcd616438d6343d554262aa9a7edaee5a19aca2e028a74fa2d0f40fffaf2816bc7056857
+  languageName: node
+  linkType: hard
+
+"@types/prop-types@npm:^15":
+  version: 15.7.11
+  resolution: "@types/prop-types@npm:15.7.11"
+  checksum: e53423cf9d510515ef8b47ff42f4f1b65a7b7b37c8704e2dbfcb9a60defe0c0e1f3cb1acfdeb466bad44ca938d7c79bffdd51b48ffb659df2432169d0b27a132
   languageName: node
   linkType: hard
 
@@ -9143,15 +9150,18 @@ __metadata:
   dependencies:
     "@docusaurus/core": "npm:^3.0.1"
     "@docusaurus/module-type-aliases": "npm:^3.0.1"
+    "@docusaurus/plugin-content-blog": "npm:^3.0.1"
     "@docusaurus/plugin-content-docs": "npm:^3.0.1"
     "@docusaurus/plugin-ideal-image": "npm:^3.0.1"
     "@docusaurus/preset-classic": "npm:^3.0.1"
     "@docusaurus/theme-mermaid": "npm:^3.0.1"
     "@mdx-js/react": "npm:^3.0.0"
     "@tsconfig/docusaurus": "npm:^2.0.0"
+    "@types/prop-types": "npm:^15"
     clsx: "npm:^1.2.1"
     prettier: "npm:3.1.1"
     prism-react-renderer: "npm:^2.1.0"
+    prop-types: "npm:^15.8.1"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
     typescript: "npm:^4.7.4"
@@ -11844,7 +11854,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prop-types@npm:^15.0.0, prop-types@npm:^15.6.2, prop-types@npm:^15.7.2":
+"prop-types@npm:^15.0.0, prop-types@npm:^15.6.2, prop-types@npm:^15.7.2, prop-types@npm:^15.8.1":
   version: 15.8.1
   resolution: "prop-types@npm:15.8.1"
   dependencies:
