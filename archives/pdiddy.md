@@ -4,7 +4,7 @@ _Planar Detector for Instability, Distortion, or Debilitation Yowler_
 
 Devised by Thri-keen artificier Tar'kiz after the Fiend Town incident to aid with the Marfros mayhem and future other intraplanar events.
 
-![PDIDDY](/img/archives/pdiddy.png)
+![PDIDDY](pdiddy.png)
 
 Tarkiz's original pitch:
 

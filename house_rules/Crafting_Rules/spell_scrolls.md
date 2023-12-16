@@ -26,4 +26,4 @@ Characters may create magic scrolls during downtime by performing the following 
 
 _higher levels upon request_
 
-![scroll being written](/img/rules/Crafting_Rules/scrolls.png)
+![scroll being written](scrolls.png)

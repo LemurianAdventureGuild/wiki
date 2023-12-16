@@ -4,7 +4,7 @@
 Marfros was defeated by the Fey Court's forces after the rebels successfully invaded due to the Guild's failure to stop the invasion ritual.
 :::
 
-![marfros](/img/archives/marfros.png)
+![marfros](marfros.png)
 
 ## Background
 

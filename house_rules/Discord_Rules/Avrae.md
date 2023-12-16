@@ -11,7 +11,7 @@ Avrae is the internal and external will of the universe. Pray they take pity on 
 Use `!import [dndbeyond character hyperlink]` where the [dndbeyond character hyperlink] is your DNDBeyond character's share hyperlink. This loads your character into Avrae. Once the character is imported, you can use avrae commands.
 
 Below is an example of where the share link is.
-![Avrae_Example](/img/rules/Discord_Rules/avrae_share_example.png)
+![Avrae_Example](avrae_share_example.png)
 
 You can do `!rollstats` to roll stats for a new character. Refer to [the multiple characters page](../multiple_characters) for more information.
 
