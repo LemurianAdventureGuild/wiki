@@ -14,15 +14,15 @@ Common, Sylvan
 
 ## Background
 
-Has a machanical arm they sling spells from.
+Has a mechanical arm they sling spells from.
 
 They found Lea on their travels and took them under their wing. They are practically Lea's guardian.
 
 ### Familiar: Wingnut
 
-Wingnut is Cheya's emotional support owl. He is precious and sweet and is an excellent child monitering system.
+Wingnut is Cheya's emotional support owl. He is precious and sweet and is an excellent child monitoring system.
 
-![Wingnut](/img/players/companions/wingnut.png)
+![Wingnut](wingnut.png)
 
 ### Leaving the Guild
 
@@ -76,6 +76,6 @@ There are rumors that a wandering Eldarin carrying a goblin child is looking for
 >
 > With Leal'tad's help, I have also attempted to compile their and Bart's more... sensational... joint pursuit. Personally I do not see the appeal, but I hope that you will enjoy them and wish you the best of luck in making them reality.
 >
-> [You'll also find a neatly bound compilation of all the Theren/Ni Ama fanart and fic that Lea and Bart were working on. The drawings and some notes are all done by those two, but there's some much neater summaries and prose sections that look like Cheya put some work into turning this into a coherent narrative. It ends with an illustration of Ni Ama carrying an unconscious Theren bridal style towards the guild dormitories.]
+> [You'll also find a neatly bound compilation of all the Theren/Ni Ama fan art and fic that Lea and Bart were working on. The drawings and some notes are all done by those two, but there's some much neater summaries and prose sections that look like Cheya put some work into turning this into a coherent narrative. It ends with an illustration of Ni Ama carrying an unconscious Theren bridal style towards the guild dormitories.]
 >
 > -_Cheya Kov_

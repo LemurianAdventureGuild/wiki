@@ -15,9 +15,7 @@
     "Trithagerous",
     "Vedalken"
   ],
-  "cSpell.enableFiletypes": [
-    "mdx"
-  ],
+  "cSpell.enableFiletypes": ["mdx"],
   "search.exclude": {
     "**/.yarn": true,
     "**/.pnp.*": true
