@@ -41,6 +41,12 @@ We use Yarn 4.x to manage dependencies. Make sure you [upgrade from Yarn 1.22.x]
 yarn
 ```
 
+And install husky for git hooks.
+
+```shell
+yarn dlx husky-init --yarn2 && yarn
+```
+
 ### Local Development
 
 ```shell
