@@ -1,6 +1,6 @@
 # Balsabarkno
 
-<img src="../img/players/Balsa_deer.png" alt="drawing" width="400"/>
+![image](Balsa_deer.png)
 
 ## Race and Class
 
@@ -11,7 +11,7 @@ Warforged Circle of the Shepard Druid
 Balsabarkno, also known as Balsa, is an animal right's activist. If you pet an animal incorrectly, be prepared to die.
 
 :::warning Balsa in PETA mode
-<img src="../img/players/balsabarkno.jpg" alt="drawing" width="400"/>
+![image](balsabarkno.jpg)
 :::
 
 ## Time in the Guild
