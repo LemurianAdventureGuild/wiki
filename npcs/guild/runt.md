@@ -1,7 +1,7 @@
 # Runt
 
 :::danger RIP
-Died fighting a necromancer who had created a giant undead monstrosity.
+Runt died in the Plains of Heraculon, fighting hoards of undead raised by 'Magic Brian'.
 :::
 
 ## Background

@@ -1,27 +1,42 @@
-# Carolina Tomes
+# Ashe
 
-Affiliations: Independent
-
-Status: Missing
-
-![Carolina_Tombs](Carolina_tombs.png)
+import Admonition from '@theme/Admonition';
 
 ## Background
 
-Carolina Tomes, archeologist extraordinaire and occasional lecturer at the Institute of Magic, was researching the relics and history related to the Holy Caramel Empire. On the mission right before her disappearance, 'Carolina' was in possession of a staff that once belonged to the Holy Caramel Emperor. We learned that the real Carolina had gone missing and have not heard or seen 'Carolina' since.
+Ashe is an 18 year-old human intern for the Lumerian Guild's library. He was an immature, naive young teen when he joined the guild. However, he has since become relatively bitter and reserved towards most adventurers after guild members stalked him on a date with Writ Scribbler.
 
-## Previous Missions
+He may act suspicious but in the end of the day he is an immature, self-conscious teen that feels very misunderstood by the world. 
 
-### Raiders of the Lost Tomb
+<Admonition type="caution" icon="🐀 & 🦉" title="">
+    <p> 🦉 - "You mean 'AND' suspicious" </p>
+    <p> 🐀 - "No, he's really sweet when you get to know him." </p>
+    <p> 🦉 - "He brought you into a dark alleyway and kinda-sorta threatened you with a ballista." </p>
+    <p>  🐀 - "Well I could have dodged it!" </p>
+</Admonition>
 
-CR: 6
+Ashe is a follower of Beshaba, goddess of misfortune and ill-luck. His father is the bishop of Beshaba.
 
-Background: Carolina Tomes, archeologist extraordinaire, has just discovered this tomb from the Holy Carmel Empire. She believes it to be the resting place of one of the Emperors! She wants you to move through and clear all the traps in the path so she can safely remove any artifacts she finds and take her time examining the ruins. This mission may require multiple attempts to clear out all of the traps.
+Ashe has a propensity to create misfortune for everybody around him. 
 
-### Carolina Tomes and the Hidden Temple
+## At the Guild
 
-CR: 5
+Several adventurers mistook his naivite for nefarious intentionsmotives. They tried to follow him on a date with [Write Scribbler](writ_scribbler). Said adventurers were discovered. 
 
-Background: Carolina Tomes has deciphered some ancient maps and murals and is certain there is a temple of the Holy Carmel Empire hidden up a cavern river running under the mountains. She needs some help with getting there and exploring what’s inside.
+During the spider infestation, Ashe was killed by a stray arrow from Draven. Feirfiz was able to quickly resecitate him with a Revivify. Draven attempted to teach Ashe runecraftering after killing him to make up for accidentally killing him.
 
-Objective: Help Carolina investigate the temple. This will likely take several runs to fully explore, so take good notes. Make sure you return Carolina to the base camp safely before you are pulled back to the Guild.
+Eversince, Ashe has been warry of most adventurers. He gets along with Chuck and Minimo though. 
+
+## Ashe's Adventure
+
+Shortly after Draven's death, Ashe went on an adventure to prove that **Wyrmfrost Appliance Works** had infridged on **Gnomish Gearwrights Co.** patent. In short this is what happened:
+
+- Ashe completed the mission to find the ruins of a very old magical refrigerator, which provided necessary evidence for his client to win their case. Big payouts, everyone happy, no loose ends except for maybe a rival enemy corporation.
+- Met three reclusive ice giants who know a little of the Lumerian Guild and Draven’s rune techniques. They shared a special rune with Ashe. 
+- Ashe encountered a scary lake ghost promising treasures. 
+- There were some frost druids that seemed cool and gave Ashe an awesome staff. The staff's effects are unknown.
+- Ashe received a cool icy rose. It was given to Ni Ama to cheer her up and to Write Scribbler as a gift.
+
+## Fun Facts
+
+- Ashe paints
