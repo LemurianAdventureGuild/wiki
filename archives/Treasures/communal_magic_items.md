@@ -1,6 +1,6 @@
 # The Goblin's Hoard
 
-Pitched as an idea by [Trithagerous](../npcs/guild/Trithagerous) after the retrieval of the [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) during The Poisoned Cistern, there is a communal collection of non-attunement magic items accessible to members of the guild depending on the needs of a mission. Though this item in particular is now lost after Bavazi was captured with it by a powerful necromancer.
+Pitched as an idea by [Trithagerous](../../npcs/guild/Trithagerous) after the retrieval of the [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) during The Poisoned Cistern, there is a communal collection of non-attunement magic items accessible to members of the guild depending on the needs of a mission. Though this item in particular is now lost after Bavazi was captured with it by a powerful necromancer.
 
 Checking out an item from the Goblin's Hoard requires 1 Time Unit (TU).
 

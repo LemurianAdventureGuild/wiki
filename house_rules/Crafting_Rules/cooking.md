@@ -20,12 +20,13 @@ These are recipes players have learned with additional research and experimentat
 
 ### Mana Mooncakes
 
-#### Learning Requirements
-
-**Rolls**: Chef's Tools - 150
-
-**Cost**: 1000gp 💰
-
 #### Effects
 
 Mana Mooncakes will grant slots that may only be used in the next mission, expiring at the start of the next rest. Slots gained will partially be determined by the chef's tools check to make the cakes and learning more advanced recipes will increase the potential for more slots.
+
+#### Learning Requirements
+
+| Level | Learning Cost | Learning Rolls | Servings | Ingrediant Costs | Spell Slots
+| --- | --- | --- | --- | --- | --- |
+| 1 | 1000gp | 150 Chef's Tools | 5 | 600 | 0-2 |
+| 2 | 3000gp | 250 Chef's Tools | 5 | 1800 | 0-4 |
