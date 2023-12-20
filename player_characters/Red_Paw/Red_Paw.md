@@ -1,5 +1,7 @@
 # Red Paw
 
+![Red Paw](Red_Paw.png)
+
 Kobold Wild Magic Sorcerer, Dispenser of Colorful Stones
 
 Red Paw grew up in a den among other Kobolds and was rather unremarkable. One day, he was out wandering when his tribe was attacked for what was assumed to be kidnapping a mage. He saw the carnage as he returned and when the attackers found him, he surrendered. Instead of imprisoning him though, they brought him into their resistance organization, Cloudfall.
