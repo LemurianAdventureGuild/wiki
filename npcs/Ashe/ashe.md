@@ -2,6 +2,8 @@
 
 import Admonition from '@theme/Admonition';
 
+![Ashe](Ashe.jpg)
+
 ## Background
 
 Ashe is an 18 year-old human intern for the Lumerian Guild's library. He was an immature, naive young teen when he joined the guild. However, he has since become relatively bitter and reserved towards most adventurers after guild members stalked him on a date with Writ Scribbler.
