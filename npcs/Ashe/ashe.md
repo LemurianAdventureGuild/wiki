@@ -2,7 +2,7 @@
 
 import Admonition from '@theme/Admonition';
 
-![Ashe](Ashe.jpg)
+![Ashe](ashe.jpg)
 
 ## Background
 
