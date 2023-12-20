@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Portal
 
+![portal](portal.jpg)
+
 A mysterious portal used as the cornerstone of the Lemurian Guild.
 
 The portal can transport any living creatures that pass through it anywhere in the world.
