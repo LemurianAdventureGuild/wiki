@@ -4,7 +4,7 @@ Affiliations: Independent
 
 Status: Missing
 
-![Carolina_Tombs](Carolina_tombs.png)
+![Carolina_Tomes](Carolina_tombs.png)
 
 ## Background
 
@@ -19,7 +19,7 @@ CR: 8
 Background: A research team has discovered the location of an aquatic temple at the bottom of a lake. Judging by the decorations, they believe it to be connected to the Holy Carmel Empire. Normally this is the kind of thing they would consult Carolina Tomes for, but since she is still missing, they tried hiring out another team of specialists. They managed to make it through several rooms of the temple, but then went through a door and did not reemerge. The research team is willing to pay the Guild for their help.
 Objective: Explore the final few rooms, disarm any traps or defenses within, and secure any valuable artifacts.
 
-Outcome: The team from the Guild found the research team dead and their camp destroyed. Upon entering swimming to the bottom of the lake they found the aquatic temple and entered. Within the temple there were 3 puzzle chambers separated by stairs. Surprisingly each of the puzzles were solved and the teams progressed to the fourth room. Here they saw a Syndicate team being led by a mysterious man in black and red robes. The Syndicate was forcing Carolina Tombs to open a large 10 ft cylinder in the middle of the fourth room. Before they could defeat the Syndicate team or rescue Carolina the team was pulled back by the portal. This was not originally a mission that involved Carolina Tombs, but it was the last reported sighting of her. 
+Outcome: The team from the Guild found the research team dead and their camp destroyed. Upon entering swimming to the bottom of the lake they found the aquatic temple and entered. Within the temple there were 3 puzzle chambers separated by stairs. Surprisingly each of the puzzles were solved and the teams progressed to the fourth room. Here they saw a Syndicate team being led by a mysterious man in black and red robes. The Syndicate was forcing Carolina Tomes to open a large 10 ft cylinder in the middle of the fourth room. Before they could defeat the Syndicate team or rescue Carolina the team was pulled back by the portal. This was not originally a mission that involved Carolina Tomes, but it was the last reported sighting of her. 
 
 ### Raiders of the Lost Tomb
 
