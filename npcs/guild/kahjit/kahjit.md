@@ -1,4 +1,4 @@
-# Kahjit & Khajit
+# Money Clan Cats
 
 Purveyor of Fine Goods
 
@@ -6,7 +6,7 @@ Purveyor of Fine Goods
 
 He [has wares if you have coin](https://youtu.be/LQvsA8uduGA?t=1).
 
-## Background
+## Kahjit & Khajit
 
 Kahjit and Khajit are often mistaken for being the same cat. They are not. They are twin brothers.
 
