@@ -13,9 +13,9 @@ Not knowing where he was, Red Paw set off to learn a way back home to his friend
 
 ## While in the Guild
 
-### Red Paw's Den of Delights and Comfort
+### Red Paw's Den for Comfort and Friends
 
-Red Paw spent weeks digging in the Guild's garden to create a cozy burrow called his "Den of Delights and Comfort". It is a comfortable place for Guildmembers to relax, rest, and step away from the chaos of the Guild. Red Paw thought to make the den after so many Guild Members such as Bart, Theren, Bavazi, and Gaille all died. The den has a table, chairs, beanbags, and a bunch of shiny gems lining its interior walls.
+Red Paw spent weeks digging in the Guild's garden to create a cozy burrow called his "Den for Comfort and Friends". It is a comfortable place for Guildmembers to relax, rest, and step away from the chaos of the Guild. Red Paw thought to make the den after so many Guild Members such as Bart, Theren, Bavazi, and Gaille all died. The den has a table, chairs, beanbags, and a bunch of shiny gems lining its interior walls.
 
 While digging, Red Paw dug up a lot of Minimo's buried gold. He also met Bongo the Capybara. Bongo has taken up residence in the Den.
 
