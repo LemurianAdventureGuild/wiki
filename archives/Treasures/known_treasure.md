@@ -16,7 +16,8 @@ The guild is in possession of 2 cards: the **moon** and the **devil**
 
 ### Clues
 
-Several cards were seen in the void rabbit's den on Rabbit Island.
+- Several cards were seen in the void rabbit's den on Rabbit Island.
+- Minimo is in the possession of "Interpretations of the Deck of Many Things, by Agatha Agnes Blackwood". It is written in infernal.
 
 ## Gaille's Body
 
