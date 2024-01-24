@@ -18,9 +18,9 @@ Kahjit and Khajit are often mistaken for being the same cat. They are not. They 
 
 ## Kitjit
 
-Kitjit is a 
+Kitjit is a young nephew of Khajit. They are very excitable and will ruthlessly fleece you of all your money.
 
-![Money Clan](moneyclan.jpg)
+![Kitjit](kitjit.jpg)
 
 
 
