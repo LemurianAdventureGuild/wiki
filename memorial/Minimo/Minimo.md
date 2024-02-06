@@ -62,3 +62,11 @@ The greatest of smallguards are knighted and become retainers to the tallguards.
 - Tallfolk - Anyone taller than 2 feet.
 - Smallguard - Smallfolk retainers and guards.
 - Tallguards - A prestigious title given to mousekin who is recognized for protecting the smallfolk, it's cultures, and/or it's histories.
+
+## Death
+
+Minimo died during the undead assault on Lemuria. He fell due to a tactical fireball from Sarell but Lucy's blade was the one to do the killing blow. 
+
+### Memorial 
+
+TBD

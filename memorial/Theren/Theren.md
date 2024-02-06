@@ -51,7 +51,7 @@ Following the ceremony his ashes were planted in the garden and became a feywild
 
 ### Memorial
 
-<img src="../img/players/Theren_memorial.jpg" alt="Theren" width="600"/>
+![Theren](Theren_memorial.jpg)
 
 #### Chuck
 
