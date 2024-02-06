@@ -1,5 +1,9 @@
 # Minimo
 
+:::danger RIP - 2/5/24
+Minimo died to an undead Lucy's dagger
+:::
+
 ![Minimo](Minimo_travelling.png)
 
 ## Class and Race
