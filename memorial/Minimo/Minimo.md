@@ -1,6 +1,6 @@
 # Minimo
 
-:::danger RIP - 9/10/23
+:::danger RIP - 2/5/24
 Minimo died to an undead Lucy's dagger
 :::
 
