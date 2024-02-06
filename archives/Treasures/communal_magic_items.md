@@ -20,4 +20,13 @@ It gives the wearer the ability cast Detect Thoughts with 1d3 charges per long r
 
 ---
 
+## Bart's Plague Tree Quarterstaff
+
+[Bart's staff](https://www.dndbeyond.com/magic-items/7916944-plague-tree-quarterstaff) was carved and wielded by Bart the Stickmage from a Dead Head Tree's branches.
+
+- Causes 1 Necrotic Damage to Weilder per Attack (hit or fail and multiattacks count as separate attacks)
+- +1d6 necrotic damage on top of the normal damage of a quarterstaff
+
+---
+
 ![corner with a comfy chair and a shelf of magical wondrous items](the_goblin_hoard.png)
