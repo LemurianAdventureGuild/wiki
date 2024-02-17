@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklemurian_adventure_guild=self.webpackChunklemurian_adventure_guild||[]).push([[5984],{87440:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"house_rules"}')}}]);
