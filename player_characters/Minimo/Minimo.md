@@ -174,5 +174,5 @@ The greatest of smallguards are knighted and become retainers to the tallguards.
 > We will dance upon their ashes. 
 > We will avenge you and your memory. 
 > leaning down she touches her forehead to Minimo's.
-> <<Umana spirit  shelter xijat liphatmei homeland.  Demant jishet phe  sy umana soul xijat se Feywild, phe shall tend qit, fyd qit, demant  qit easy labors xijat se  untasen.>>
-> May your spirit find shelter in our homeland. And if I should see your soul in the Feywild, I shall tend it, feed it, and give it easy labors in the life to come.  (sylvan speakers)
+> Umana spirit  shelter xijat liphatmei homeland.  Demant jishet phe  sy umana soul xijat se Feywild, phe shall tend qit, fyd qit, demant  qit easy labors xijat se  untasen.
+> [May your spirit find shelter in our homeland. And if I should see your soul in the Feywild, I shall tend it, feed it, and give it easy labors in the life to come.]  (sylvan speakers)
