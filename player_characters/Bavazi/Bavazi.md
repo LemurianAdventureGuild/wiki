@@ -1,5 +1,9 @@
 # Bavazi Ozen
 
+:::info MIA - Dec 2023
+Bavazi was captured by a master of undead. It is theorized this master is Magic Brian.
+:::
+
 Kalashtar Druid
 
 ![Bavazi](Bavazi.png)

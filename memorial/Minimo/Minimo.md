@@ -1,5 +1,9 @@
 # Minimo
 
+:::danger RIP 2-12-24
+Lucy stabbed him in the heart during the undead raid on the Capitol. 
+:::
+
 ![Minimo](Minimo_travelling.png)
 
 ## Class and Race
@@ -39,9 +43,23 @@ Titles:
 ![Sir Giblet](Sir_Giblet.png)
 Sir Giblet is Minimo's smallguard. His is very eloquent and cleans up all of Minimo's messes.
 
+Sir Giblet is Minimo's accountant, PR consultant, and and execuative assistant.
+
+Since Minimo's death, he has been resummoned by Ni Ama.
+
 :::info In-game: Familiar
 Game-wise, Sir Giblet is a reskinned fey familiar.
 :::
+
+## In the Guild
+
+Minimo's first mission was to apprehend the Phantom Thieves. His kleptomania flared up and caused him to instinctually grab a broken [Bead of Fog] that creates perpetual fog whenever it is touched. His theft was found out when he tried to cast [identify] on the bead in the Garden. Guildmembers were unable to swipe the bead away from Minimo until Sir Giblet appeared and knocked the Mousekin out. Minimo was fined for this theft.
+
+Minimo does not have a strong grasp of his finances because he buries all of his gold and treasures in the Garden. 
+
+### Job Application
+Sir Giblet urged Minimo to put in a job application for Kahjit's job listing. Unfortunately, nepotism won out and Taxbreak got the job over him.
+
 
 ## Kangeroo Mousekin Lore
 
