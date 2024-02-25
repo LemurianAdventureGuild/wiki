@@ -1,5 +1,9 @@
 # Minimo
 
+:::danger RIP 2-12-24
+Lucy stabbed him in the heart during the undead raid on the Capitol. 
+:::
+
 ![Minimo](Minimo_travelling.png)
 
 ## Class and Race
@@ -39,7 +43,9 @@ Titles:
 ![Sir Giblet](Sir_Giblet.png)
 Sir Giblet is Minimo's smallguard. His is very eloquent and cleans up all of Minimo's messes.
 
-Sir Giblet is Minimo's accountant, PR consultant, 
+Sir Giblet is Minimo's accountant, PR consultant, and and execuative assistant.
+
+Since Minimo's death, he has been resummoned by Ni Ama.
 
 :::info In-game: Familiar
 Game-wise, Sir Giblet is a reskinned fey familiar.

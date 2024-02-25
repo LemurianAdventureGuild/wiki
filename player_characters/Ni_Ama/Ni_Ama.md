@@ -35,3 +35,9 @@ Winter Eladrins are the embodiment of sadness, bitterness, and solemnity. Winter
 Ni Ama changed seasons to Winter after Theren's passing.
 
 Since his death she has become more cold and cunning.
+
+## Summer
+
+Following Bavazi's capture during the disasterous Tomb of Repsaj raid, Ni Ama shifted to Summer
+
+During this time, she contracted Sir Giblet, Minimo's old familiar, as her smallguard.
