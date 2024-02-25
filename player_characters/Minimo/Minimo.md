@@ -70,3 +70,19 @@ The greatest of smallguards are knighted and become retainers to the tallguards.
 - Tallfolk - Anyone taller than 2 feet.
 - Smallguard - Smallfolk retainers and guards.
 - Tallguards - A prestigious title given to mousekin who is recognized for protecting the smallfolk, it's cultures, and/or it's histories.
+
+## Death
+
+### Memorial Eulogies
+
+#### Illantris
+
+> Dressed in what is becoming a too often used black mourning dress, Illantriss steps forward.
+> 
+> "For all his short size, Minimo's presence, personality, exuberance, humor, and culinary talents came to dominate a large space in all our lives. His winning personality no better displayed by the fact he could be the culprit of so many small thefts around this place, yet still be loved and cherished by all. 
+> 
+> We will miss his inquisitive mind, ceaseless creativity, passion for history and learning, and constantly being reminded on how delicious he would've been if cooked a certain way. 
+> 
+> The loss of his light in our Guild is tragic. He died as he lived. Boldly. Facing against overwhelming odds. There won't be another like him. And....I will dearly miss having him to cook with. And throw cookies at when I'm "mad" at him. And our late night research sessions in the library. And..and...and him. Goodbye Minimo darling. I'm...so sorry love."
+>
+> places an assortment of mouse shaped cookies, marshmallows, and candy beside his body.
