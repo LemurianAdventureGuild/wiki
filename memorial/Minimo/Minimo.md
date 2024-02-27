@@ -4,7 +4,7 @@
 Stabbed in the heart by Lucy during the undead assault on the Capital.
 :::
 
-![Minimo](Minimo_travelling.png)
+![Minimo](Minimo_waiter.png)
 
 ## Class and Race
 
