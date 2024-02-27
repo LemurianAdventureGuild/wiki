@@ -2,9 +2,9 @@
 
 ## Background
 
-Landon Cruise is a mad scientist tied to the Syndicate who grafted draconic parts onto a humanoids. This experimentation led to the creation of insane draconid-humanoid hybrids. Elves were a preferred race for experimentation due to their long lives and resistence against charm magic.
+Landon Cruise is a mad scientist tied to the Syndicate who grafted draconic parts onto humanoids. This experimentation led to the creation of insane draconid-humanoid hybrids. Elves were a preferred race for experimentation due to their long lives and resistence against charm magic.
 
-Landon Cruise is very full of himself. He has written his life's work down in a book of notes. Said notes can be checked out from Jeremiah in the Guild Library.
+Landon Cruise is very full of himself. He has written his life's work down in a book. Said book can be checked out from Jeremiah in the Guild Library.
 
 Landon Cruise was brought to justice by the Guild and imprisoned in Numerguard.
 
