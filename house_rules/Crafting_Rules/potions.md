@@ -26,3 +26,12 @@ Foraging requires one time unit of **Survival**. You will find a variable amount
 Crafting healing potions require one time unit with an **Intelligence** check plus proficiency (Alchemist's Tools). You can craft a variable number of healing potions depending on your roll.
 
 ![potion](potion_brewing.png)
+
+## Learning New Potions and Proficency
+
+| Type | Learning Cost | Learning Rolls 1 | Learning Rolls 2 | 
+| --- | --- | --- | --- |
+| Greater Healing | 500gp | 100 Alchemist's Tools (Int) |
+| Potion of Speed | 1000gp | 200 Alchemist's Tools (Int) |
+| Potion of Heroism | 3200gp | 400 Alchemist's Tools (Int) | 
+| Expertise - Alchemist's Tools | 8000gp | 300 Alchemist Tools (Dex) | 400 Int | 
