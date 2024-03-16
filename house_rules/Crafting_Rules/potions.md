@@ -27,7 +27,7 @@ Crafting healing potions require one time unit with an **Intelligence** check pl
 
 ![potion](potion_brewing.png)
 
-## Learning New Potions and Proficency
+## Learning New Potions and Proficiency
 
 | Type | Learning Cost | Learning Rolls 1 | Learning Rolls 2 | 
 | --- | --- | --- | --- |
