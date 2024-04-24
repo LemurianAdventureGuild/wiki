@@ -67,7 +67,7 @@ const config = {
             activeBaseRegex: `/npcs/`,
           },
           {
-            to: "archives/lemuria",
+            to: "archives",
             position: "left",
             label: "Archives",
             activeBaseRegex: `/archives/`,

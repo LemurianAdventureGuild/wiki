@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Intro
+sidebar_label: The Archives
 ---
 
 <!--Needed for Minimo Scribbles-->
