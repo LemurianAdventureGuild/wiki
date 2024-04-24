@@ -1,10 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Portal
-
-![portal](portal.jpg)
 
 A mysterious portal used as the cornerstone of the Lemurian Guild.
 
@@ -21,6 +19,8 @@ Exceptions occurred for a brief period while Wendy was injured and unconscious.
 Strange minor effects were noted such as tasting colors, ending up in the wrong locations, or portal time shortening or extending.
 While Wendy was injured, the Syndicate managed to hijack the portal and use it to allow their agents into the Guild Hall.
 Wendy was awakened and did something to repair the portal to its normal state.
+
+![portal](portal.jpg)
 
 ## Syndicate Portal Magic
 

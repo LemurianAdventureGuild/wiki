@@ -67,7 +67,7 @@ const config = {
             activeBaseRegex: `/npcs/`,
           },
           {
-            to: "archives/guild",
+            to: "archives/lemuria",
             position: "left",
             label: "Archives",
             activeBaseRegex: `/archives/`,
@@ -82,7 +82,7 @@ const config = {
             to: "memorial",
             label: "Memorial",
             position: "right",
-            activeBaseRegex: `/house_rules/`,
+            activeBaseRegex: `/memorial/`,
           },
           {
             to: "house_rules/basics",

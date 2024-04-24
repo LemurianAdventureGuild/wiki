@@ -4,4 +4,4 @@ Lemuria's premiere magical academy. The Institute of Magic is a cloistered build
 
 The institute has a branch office in the capital.
 
-![Magical Institute](magical_institute.webp)
+![Institute of Magic, a cloistered gothic style academy](institute-of-magic.webp)
