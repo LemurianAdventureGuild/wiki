@@ -24,5 +24,5 @@ Wendy was awakened and did something to repair the portal to its normal state.
 
 ## Syndicate Portal Magic
 
-The [Invictus Syndicate](./syndicate) appears to use their own portal magic to move their agents around the world.
+The [Invictus Syndicate](../syndicate) appears to use their own portal magic to move their agents around the world.
 It is unknown how the Syndicate portal system is similar or different to the Lemurian Guild's.
