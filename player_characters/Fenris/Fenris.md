@@ -16,7 +16,7 @@ Word floated through Faundell of a far off Guild, fighting the battles that need
 
 :::note Fun Fact
 Fun fact, if you squint juuuuust right Fenris becomes a Disney Prince. 
-![Fenris](Fenris_Disney_Prince.png)
+![Fenris](Fenris_disney_prince.png)
 :::
 
 ## Languages
