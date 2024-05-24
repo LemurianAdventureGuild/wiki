@@ -10,7 +10,7 @@ Half-elf College of Lore bard and a trifling warlock.
 
 ## Background
 
-Position: Snack expert
+**Position:** Snack expert
 
 ## Time in the Guild
 
