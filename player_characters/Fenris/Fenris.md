@@ -15,7 +15,7 @@ Yet it felt small. So small.
 Word floated through Faundell of a far off Guild, fighting the battles that needed to be fought and facing danger head on. Fenris set off the next day without looking back.
 
 :::note Fun Fact
-Fun fact, if you squint juuuuust right Fenris becomes a Disney Prince.
+Fun fact, if you squint juuuuust right Fenris becomes a Disney Prince. 
 ![Fenris](Fenris_Disney_Prince.png)
 :::
 
