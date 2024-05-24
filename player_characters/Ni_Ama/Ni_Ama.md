@@ -41,3 +41,5 @@ Since his death she has become more cold and cunning.
 Ni Ama shifted into Summer following Bavazi's dissapearance after the disasterous raid on the Tomb of Repsaj.
 
 Ni Ama summoned Sir Giblet, Minimo's old smallguard, as her familiar.
+
+![Ni Ama Summer](Ni_Ama_Summer.png)
