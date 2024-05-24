@@ -22,4 +22,4 @@ Early on in her adventuring career she made a pact with a mysterious celestial s
 Illantris is a good case study of how an angry patron makes a miserable warlock. While cursed, Illantris can not feel the effects of magical healing. 
 :::
 
-Feirfiz has proposed to Illantris before however following Feirfiz's untimely death and later resurection he forgot about his proposal. 
+Feirfiz had asked Illantris to marry him, but after his unexpected demise and subsequent revival, he lost all memory of his marriage proposal.

@@ -6,4 +6,4 @@
 
 ## Background
 
-Gary is a desk worker at the Lumerian Guild. He is in charge of the guild's account of missions both on and off the books. 
+Gary holds the position of administrative clerk at the Lumerian Guild, where he oversees the financial records for both official and unofficial missions.

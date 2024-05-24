@@ -14,4 +14,4 @@ Feirfiz was born on another world. The love between his fathers, King Fajar du K
 
 While in the guild Feirfiz became a popular icon. Artwork of him dons the galleria and dolls of him have become somewhat popular among children.
 
-He has proposed to fellow guildmate Illantris however following his untimely death and later resurection he forgot about his proposal. 
+Feirfiz had asked Illantris to marry him, but after his unexpected demise and subsequent revival, he lost all memory of his marriage proposal.
