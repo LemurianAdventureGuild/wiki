@@ -15,3 +15,10 @@ Feirfiz was born on another world. The love between his fathers, King Fajar du K
 While in the guild Feirfiz became a popular icon. Artwork of him dons the galleria and dolls of him have become somewhat popular among children.
 
 Feirfiz had asked Illantriss to marry him, but after his unexpected demise and subsequent revival, he lost all memory of his marriage proposal.
+
+## Galleria du Feirfiz
+Several of Feirfiz’s stunning modelwork are showcased in this gallery and further down.
+
+![Feirfiz](Feirfiz_Hot_1.png)
+![Feirfiz](Feirfiz_Hot_2.png)
+![Feirfiz](Feirfiz_and_Illantriss.png)

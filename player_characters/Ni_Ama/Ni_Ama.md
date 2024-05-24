@@ -43,3 +43,8 @@ Ni Ama shifted into Summer following Bavazi's dissapearance after the disasterou
 Ni Ama summoned Sir Giblet, Minimo's old smallguard, as her familiar.
 
 ![Ni Ama Summer](Ni_Ama_Summer.png)
+
+:::info Sir Giblet
+"I serve my lady arborist with science and encouraging words!" - Sir Giblet
+![Sir Giblet](Sir_Giblet_Scientist.png)
+:::

@@ -1,7 +1,9 @@
 # Gustabo
 
+## Class and Race
 Teifling Sorcerer
 
+## Background
 Progress. That was the word that Gustabo thought of when we woke and the last thought before he slept. It was his mantra. Any kind of change would be an improvement over his current life. Growing up hungry in the slums was pretty much the bottom. Being a teifling in a human city made it worse. But no matter how hard his parents worked or how long Gustabo studied his life wouldn’t, couldn’t change.
 
 Then in his teenage years his ability to channel magic manifested. Yes! Now he and his family would have some progress. There was no such thing as a poor sorcerer, right? His father disagreed. “Boy, this changes nothing. So you got powers now. There’s no getting out of the slums.” Gustabo just couldn’t understand. All the hopes and dreams in his father must have withered and died long ago. Desperate to change something, he went to the fixer in the neighborhood. The jobs he took were small at first. Using mage hand to place forged documents in the tax collector’s office through an open window. Tripping a courier so his satchel could be “filtered”. Gustabo used some of his earnings to bring food home, but he also hid some extra gold under the floor boards of his room. But soon the fixer was assigning him jobs that didn’t feel right. Using fire bolt to start a fire in a rival’s warehouse or using chill touch to make local officials too sick to go to work.
