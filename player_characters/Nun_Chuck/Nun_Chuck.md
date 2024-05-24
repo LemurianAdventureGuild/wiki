@@ -12,14 +12,14 @@ Nun Chuck, originally known to the guild as Sister Charles, ran from her monaste
 
 ## Time in the Guild
 
-Nun Chuck is well known in the city for doing various odd tasks. She was known by the children for her trick performances, the homeless from her times at the soup kitchens, and the hospitals when she volenteered her time there. She is well liked by the city despite her clumsy ways.
+Nun Chuck has gained a reputation throughout the city for her eclectic array of tasks. The local children admire her for her entertaining tricks, the homeless community remembers her fondly from her days serving at the soup kitchens, and the hospital staff appreciates her volunteer efforts. Despite her occasional clumsiness, she is a cherished figure in the community.
 
 ### Southern Continet
 
 Nun Chuck went on the March 2024 Cursed Cradle's expedition to the Southern Continent. 
 
-::: Info Job Application
-This was Chuck's Job Application to join the souther expedition.
+:::note Job Application
+This was Chuck's Job Application when she joined the southern expedition.
 ![Job Application](Chuck_Job_App.png)
 :::
 
