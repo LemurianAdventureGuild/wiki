@@ -21,9 +21,9 @@ You can do `!rollstats` to roll stats for a new character. Refer to [the multipl
 - `!update` updates your character with their latest stats from DNDBeyond
 - `!roll 1d20` rolls 1d20 sided die.
 - `!roll 1d20+2` rolls 1d20 and adds +2
-- `!roll 2d20kl1` rolls 2d20 and keeps the lowest 1. `kl` stands for "Keep Lower".
-- `!roll 1d20+2 adv` rolls 1d20 with advantage (similar to `2d20kh1`) and adds 2
+- `!roll 2d20kl1` rolls 2d20 and keeps the lowest 1. `kl` stands for "Keep Lower"
 - `!roll 3d20kh2+2` rolls 3d20, keeps the highest 2 and adds +2. `kh` stands for "Keep Higher"
+- `!roll 1d20+2 adv` rolls 1d20 with advantage (similar to `2d20kh1`) and adds 2
 - `!check strength` rolls a strength check
 - `!check charisma -rr 3` rolls 3 charisma checks
 - `!check charisma -rr 3 -b 2` rolls 3 charisma checks with a +2 bonus
