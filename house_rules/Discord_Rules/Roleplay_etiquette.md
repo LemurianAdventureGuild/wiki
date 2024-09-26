@@ -21,7 +21,7 @@ Players will note whether they are speaking in character or out of character wit
 
 ### Examples
 
-- `*Italics*` --> _Minimo the Mouse looks at Eligos in excitement and mounts the dashing owl._
+- `*Italics*` --> _Minimo the Mouse tries to use Eligos the Owl as an owl-sized feather falling spell._
 - `**Bold**` --> **Eligos crashes**
 - ` ```A Letter``` ` --> `Eligos, your medical copay is 5000gp.`
 
