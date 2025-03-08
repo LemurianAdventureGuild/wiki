@@ -71,6 +71,7 @@ Here are some example types of jobs that Guild members have performed, along wit
 - **`#tavern` jobs**
   - **Tavern cooking**: Dexterity + Wisdom
   - **Waiting tables**: Dexterity + Charisma
+  - **Giving a performance**: Performance + Insight
 - **`#the-garden` jobs**
   - **Gardening**: Nature + Survival
 - **`#library` jobs**
