@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklemurian_adventure_guild=globalThis.webpackChunklemurian_adventure_guild||[]).push([[4136],{99640:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"memorial"}')}}]);
