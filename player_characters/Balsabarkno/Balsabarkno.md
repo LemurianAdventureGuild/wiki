@@ -1,5 +1,9 @@
 # Balsabarkno
 
+:::caution Retired from Guildwork
+Balsa retired from guildwork.
+:::
+
 ![image](Balsa_deer.png)
 
 ## Race and Class
