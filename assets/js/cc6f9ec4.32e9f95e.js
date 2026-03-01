@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunklemurian_adventure_guild=globalThis.webpackChunklemurian_adventure_guild||[]).push([[8170],{30766:e=>{e.exports=JSON.parse('{"authors":[{"name":"Writ Scribbler","title":"Journalist","key":"scribe","page":null,"count":7}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklemurian_adventure_guild=globalThis.webpackChunklemurian_adventure_guild||[]).push([[225],{225(e,u,a){a.d(u,{createArchitectureServices:()=>r.S});var r=a(77713);a(808)}}]);
