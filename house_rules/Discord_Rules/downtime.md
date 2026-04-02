@@ -57,7 +57,7 @@ Do a job for payment. A good way to earn some cash. There are no thresholds for 
 The gold payout for odd jobs is calculated by adding up your [combined rolls].
 :::
 
-Each long rest, the Guild will sponsor themed jobs and activities that have a larger payout and offer more bonuses. You will see these posted in the #downtime-work thread after the long rest.
+Each long rest, the Guild will sponsor themed jobs and activities that have a larger payout and offer more bonuses. You will see these posted in the #downtime-work channel after the long rest.
 
 When performing downtime jobs, you can report your rolls, number of time units spent, and a description of the activities that you performed in an appropriate public channel, and a DM will let you know how much gp you earned.
 
